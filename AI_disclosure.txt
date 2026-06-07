@@ -1,0 +1,9 @@
+> **AI Use Disclosure**
+
+> This assignment relied extensively on generative AI assistance, primarily Claude (Anthropic, claude-sonnet-4-6), across most stages of the workflow. AI systems were used to produce, revise, debug, and reorganise a large proportion of the Python code contained in the submitted notebook. This included support for data cleaning procedures, ownership-spell reconstruction, date-overlap matching, fuzzy-name linkage, regression estimation, statistical visualisation, figure generation, and export packaging. AI assistance was also used for code troubleshooting, syntax correction, workflow sequencing, documentation drafting, and stylistic refinement of written explanations.
+>
+> The underlying research direction and empirical implementation decisions nonetheless remained author determined. Methodological choices such as spell start and end definitions, reciprocity construction, fuzzy-match threshold calibration, umbrella-group classification logic, and the exclusion of growth-equity transactions were selected from the assignment requirements and incorporated deliberately into the analysis pipeline. Regression specifications, including HC1 heteroskedasticity-robust standard errors, year fixed effects, and reference-category selection, reflect conventional empirical practice in corporate finance research and were independently checked by the author.
+>
+> Borderline fuzzy-match classifications involving ACCEPT or REJECT decisions were not resolved through AI preference or autonomous recommendation. These judgments were made manually through application of the root-word consistency rule and contextual review procedures documented in the notebook and README materials.
+>
+> All AI-assisted outputs were subsequently reviewed, modified, executed, and validated before submission. Final responsibility for the coding logic, empirical interpretation, statistical implementation, and presentation of results rests entirely with the author.

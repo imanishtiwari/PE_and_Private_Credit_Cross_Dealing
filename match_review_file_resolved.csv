@@ -1,0 +1,2318 @@
+Atlas_Clean_Name,Summit_Clean_Name,Similarity_Score,Decision
+vantigo aa analytics,,,NO_MATCH
+jorvik aa biosystems,jorvik gi biosystems,85.0,ACCEPT
+arvello aa biosystems,arvello aa biosys,89.5,ACCEPT
+praxon ba clinics,,,NO_MATCH
+veltrix ca cloudworks,,,NO_MATCH
+xylera cb diagnostics,xylera fc diagnostics,85.7,ACCEPT
+tarsen db gridworks,,,NO_MATCH
+javora eb,,,NO_MATCH
+meroxa eb,,,NO_MATCH
+iskora eb imaging,,,NO_MATCH
+avenor fb logistics,avenor cr logistics,89.5,ACCEPT
+quenvale fc logistics,,,NO_MATCH
+rovian fc logistics,,,NO_MATCH
+solvanta fc logistics,solvanta lk logistics,90.5,ACCEPT
+fintara gc mobility,fintara jw mobility,89.5,ACCEPT
+lorven gc mobility,lorven hl mobility,88.9,ACCEPT
+solvanta gc networks,solvanta es networks,90.0,ACCEPT
+avenor hc payments,avenor iz payments,88.9,ACCEPT
+falvera id pharma,falvera pd pharma,94.1,ACCEPT
+zentara jd robotics,zentara dz robotics,94.7,ACCEPT
+braxen ke supply,braxen ln supply,87.5,ACCEPT
+sorevia le therapeutics,sorevia fa therapeutics,91.3,ACCEPT
+galvex me training,galvex ot training,88.9,ACCEPT
+yantara nf transport,yantara pg transport,90.0,ACCEPT
+prysmar of warehousing,prysmar me warehousing,90.9,ACCEPT
+ostera of wellness,ostera ai wellness,88.9,ACCEPT
+prysmar qg biosystems,prysmar qg biosys,89.5,ACCEPT
+vantigo qg clinics,,,NO_MATCH
+iskora qg clinics,iskora yq clinics,94.1,ACCEPT
+braxen rg cloudworks,braxen ir cloudworks,95.0,ACCEPT
+lunaro rg cloudworks,helvar rg cloudworks,85.0,REJECT
+tarsen rg cloudworks,tarsen sd cloudworks,90.0,ACCEPT
+prysmar rg components,,,NO_MATCH
+arvello rg components,arvello yy components,90.5,ACCEPT
+sorevia sh diagnostics,sorevia sl diagnostics,95.5,ACCEPT
+uldora th foods,uldora nm foods,86.7,ACCEPT
+lunaro th,,,NO_MATCH
+novaris th,,,NO_MATCH
+mavrix ui logistics,mavrix nl logistics,89.5,ACCEPT
+tervano vi logistics,,,NO_MATCH
+uldora wi mobility,,,NO_MATCH
+arvello wi networks,arvello od networks,89.5,ACCEPT
+deltora wi networks,deltora vq networks,89.5,ACCEPT
+solvanta xj payments,solvanta ci payments,85.0,ACCEPT
+arvello xj payments,arvello pm payments,89.5,ACCEPT
+vantigo yj robotics,vantigo zj robotics sys,85.7,ACCEPT
+falvera zj security,,,NO_MATCH
+calvion zj software,,,NO_MATCH
+wendora ak software,wendora pq software,89.5,ACCEPT
+rovian ck training,,,NO_MATCH
+iskora dl warehousing,iskora eh warehousing,90.5,ACCEPT
+wendora fm analytics,wendora fz analytics,95.0,ACCEPT
+yantara fm analytics,yantara xg analytics,90.0,ACCEPT
+praxon gm clinics,praxon hi clinics,88.2,ACCEPT
+falvera hn diagnostics,falvera kb diagnostics,90.9,ACCEPT
+calvion in foods,calvion wo foods,87.5,ACCEPT
+dorsen jn,,,NO_MATCH
+dorsen kn logistics,,,NO_MATCH
+helvar kn logistics,,,NO_MATCH
+nexora kn logistics,nexora bz logistics,89.5,ACCEPT
+eldora ko materials,,,NO_MATCH
+arvello ko materials,arvello fc materials,90.0,ACCEPT
+praxon lo materials,,,NO_MATCH
+yorvex lo mobility,yorvex cz mobility,88.9,ACCEPT
+orvanta lo networks,orvanta bh networks,89.5,ACCEPT
+prysmar lo networks,prysmar gc networks,89.5,ACCEPT
+yorvex mo packaging,yorvex mb packaging,94.7,ACCEPT
+cendrix np pharma,cendrix jm pharma,88.2,ACCEPT
+vantigo np retail,vantigo qe retail,88.2,ACCEPT
+cendrix op robotics,,,NO_MATCH
+prysmar pp software,prysmar fs software,89.5,ACCEPT
+lorven pq software,lorven re software,88.9,ACCEPT
+ivanto pq supply,,,NO_MATCH
+jorvik pq supply,jorvik ol supply,87.5,ACCEPT
+solvanta qq tools,,,NO_MATCH
+tarsen sr transport,tarsen pg transport,89.5,ACCEPT
+ostera sr transport,,,NO_MATCH
+ulvero sr ventures,ulvero nf ventures,88.9,ACCEPT
+orvanta tr wellness,ivanto tr wellness,86.5,REJECT
+ravelin us analytics labs,,,NO_MATCH
+iskora vs biosystems labs,,,NO_MATCH
+nexora vs clinics labs,,,NO_MATCH
+tarsen vs clinics labs,,,NO_MATCH
+wendora vs clinics labs,,,NO_MATCH
+galvex ws cloudworks labs,galvex ti cloudworks labs,92.0,ACCEPT
+evorin ws cloudworks labs,evorin sp cloudworks labs,96.0,ACCEPT
+lunaro ws components labs,lunaro sq components labs,96.0,ACCEPT
+nexora ws components labs,nexora va components labs,92.0,ACCEPT
+meroxa yt gridworks labs,,,NO_MATCH
+dorsen yt labs,,,NO_MATCH
+mavrix yt labs,,,NO_MATCH
+orvanta yt labs,,,NO_MATCH
+ulvero yt labs,,,NO_MATCH
+solvanta zt imaging labs,,,NO_MATCH
+lorven zt imaging labs,,,NO_MATCH
+xylera zu logistics labs,xylera yb logistics labs,91.7,ACCEPT
+veltrix cu packaging labs,,,NO_MATCH
+dorsen cu payments labs,,,NO_MATCH
+yorvex cv pharma labs,,,NO_MATCH
+arvello cv pharma labs,,,NO_MATCH
+haverno cv pharma labs,,,NO_MATCH
+kelvanto dv retail labs,,,NO_MATCH
+ravelin dv retail labs,ravelin ls retail,87.2,ACCEPT
+uldora dv retail labs,wendora dv retail labs,88.4,REJECT
+ravelin ev robotics labs,ravelin as robotics labs,91.7,ACCEPT
+kelvanto ev security labs,ivanto ev security labs,91.7,REJECT
+lunaro fw supply labs,lunaro dd supply labs,90.5,ACCEPT
+yorvex hx transport labs,,,NO_MATCH
+jorvik hx ventures labs,jorvik du ventures labs,91.3,ACCEPT
+dorsen ix warehousing labs,evorin ix warehousing labs,88.5,REJECT
+qintara ix warehousing labs,,,NO_MATCH
+calvion jx workspace labs,galvex jx workspace labs,85.7,REJECT
+avenor jx analytics solutions,,,NO_MATCH
+braxen ky clinics solutions,braxen fd clinics solutions,92.6,ACCEPT
+yantara ly clinics solutions,yantara ly clinics solns,92.3,ACCEPT
+iskora ly cloudworks solutions,iskora ly cloudworks solns,92.9,ACCEPT
+yorvex my components solutions,yorvex my components solns,92.9,ACCEPT
+cendrix mz diagnostics solutions,cendrix mz diagnostics solns,93.3,ACCEPT
+ravelin mz diagnostics solutions,ravelin mz diagnostics solns,93.3,ACCEPT
+lunaro nz foods solutions,lunaro nz foods solns,91.3,ACCEPT
+solvanta nz foods solutions,solvanta nz foods solns,92.0,ACCEPT
+brinora nz foods solutions,,,NO_MATCH
+lorven nz gridworks solutions,ravelin lo gridworks solutions,88.1,REJECT
+calvion oz solutions,,,NO_MATCH
+kelvanto oz solutions,,,NO_MATCH
+arvello pa logistics solutions,arvello mp logistics solns,89.3,ACCEPT
+tervano pa logistics solutions,sorevia pa logistics solutions,86.7,REJECT
+zentara qa networks solutions,,,NO_MATCH
+zentara tb security solutions,zentara lw security solutions,89.7,ACCEPT
+lorven vc supply solutions,,,NO_MATCH
+tervano vc therapeutics solutions,tarsen vc therapeutics solutions,89.2,REJECT
+iskora xd ventures solutions,iskora wk ventures solutions,92.9,ACCEPT
+tervano yd warehousing solutions,tervano yd warehousing solns,93.3,ACCEPT
+lorven zd workspace solutions,lorven zd workspace solns,92.6,ACCEPT
+meroxa zd workspace solutions,,,NO_MATCH
+yantara zd workspace solutions,yantara zd workspace solns,92.9,ACCEPT
+cendrix zd analytics systems,cendrix zd analytics sys,92.3,ACCEPT
+wendora ze analytics systems,uldora ze analytics systems,90.9,REJECT
+ulvero ae biosystems systems,,,NO_MATCH
+brinora ae biosystems systems,,,NO_MATCH
+orvanta ae clinics systems,,,NO_MATCH
+ravelin ae clinics systems,ravelin yt clinics systems,88.5,ACCEPT
+sorevia ae clinics systems,kestrelis ae clinics systems,85.2,REJECT
+nexora be components systems,nexora be components sys,92.3,ACCEPT
+xylera ce diagnostics systems,,,NO_MATCH
+brinora ce diagnostics systems,,,NO_MATCH
+calvion cf foods systems,calvion zu foods systems,87.5,ACCEPT
+xylera cf foods systems,,,NO_MATCH
+iskora cf foods systems,,,NO_MATCH
+ulvero df systems,,,NO_MATCH
+cendrix fg materials systems,cendrix fg materials sys,92.3,ACCEPT
+yantara fg materials systems,,,NO_MATCH
+rovian fg mobility systems,orvanta fg mobility systems,90.6,REJECT
+vantigo fg mobility systems,vantigo fg mobility sys,92.0,ACCEPT
+evorin gg packaging systems,avenor gg packaging systems,88.9,REJECT
+veltrix hg packaging systems,,,NO_MATCH
+calvion hh pharma systems,,,NO_MATCH
+wexforda ih retail systems,wexforda ih retail sys,91.7,ACCEPT
+yorvex jh software systems,yorvex ip software systems,92.3,ACCEPT
+javora ji software systems,javora ji software sys,91.7,ACCEPT
+iskora ki supply systems,,,NO_MATCH
+ulvero ki therapeutics systems,ulvero ki therapeutics sys,92.9,ACCEPT
+tarsen li training systems,tarsen li training sys,91.7,ACCEPT
+xylera li training systems,,,NO_MATCH
+nexora mi transport systems,,,NO_MATCH
+kestrelis oj analytics technologies,,,NO_MATCH
+nexora oj analytics technologies,nexora ge analytics technologies,90.6,ACCEPT
+falvera pj analytics technologies,falvera nr analytics technologies,93.9,ACCEPT
+veltrix pk analytics technologies,,,NO_MATCH
+yantara pk analytics technologies,yantara pk analytics tech,86.2,ACCEPT
+novaris pk biosystems technologies,,,NO_MATCH
+praxon pk biosystems technologies,rovian kp biosystems technologies,87.9,REJECT
+cendrix qk cloudworks technologies,cendrix qk cloudworks tech,86.7,ACCEPT
+ulvero rk components technologies,tervano rk components technologies,89.6,REJECT
+glenvex sl foods technologies,galvex ni foods technologies,87.7,REJECT
+yorvex sl gridworks technologies,yorvex sl gridworks tech,85.7,ACCEPT
+rovian tl technologies,rovian pi technologies,86.4,ACCEPT
+tarsen tl technologies,tarsen qb technologies,86.4,ACCEPT
+cendrix tl technologies,,,NO_MATCH
+javora tl technologies,javora zw tools technologies,88.0,ACCEPT
+uldora tl technologies,,,NO_MATCH
+dorsen tl imaging technologies,haverno tl imaging technologies,85.2,REJECT
+ivanto ul logistics technologies,,,NO_MATCH
+nexora wm packaging technologies,brinora wm packaging technologies,92.3,REJECT
+falvera wm packaging technologies,fintara wm packaging technologies,90.9,REJECT
+yorvex yn robotics technologies,,,NO_MATCH
+braxen zn software technologies,calvion zn software technologies,85.7,REJECT
+ulvero zo supply technologies,ulvero xd supply technologies,93.1,ACCEPT
+iskora zo supply technologies,,,NO_MATCH
+xylera ao therapeutics technologies,ulvero si therapeutics technologies,85.7,REJECT
+rovian ao tools technologies,mavrix ao tools technologies,85.7,REJECT
+tarsen ao tools technologies,mavrix ao tools technologies,85.7,REJECT
+eldora bo transport technologies,jorvik bo transport technologies,87.5,REJECT
+tervano cp transport technologies,,,NO_MATCH
+orvanta cp ventures technologies,kelvanto cp ventures technologies,89.2,REJECT
+javora cp ventures technologies,eldora cp ventures technologies,90.3,REJECT
+novaris dp warehousing technologies,novaris dp warehousing tech,87.1,ACCEPT
+evorin dp wellness technologies,javora dp wellness technologies,90.3,REJECT
+lorven dp wellness technologies,javora dp wellness technologies,87.1,REJECT
+yorvex ep analytics services,yorvex bf analytics services,92.9,ACCEPT
+kestrelis eq biosystems services,,,NO_MATCH
+evorin fq biosystems services,,,NO_MATCH
+haverno fq biosystems services,haverno fq biosys services,92.9,ACCEPT
+yorvex fq clinics services,,,NO_MATCH
+haverno fq clinics services,,,NO_MATCH
+rovian gq components services,rovian fy components services,93.1,ACCEPT
+xylera gq components services,uldora eg components services,86.2,REJECT
+glenvex gq components services,,,NO_MATCH
+javora gq components services,ostera eg components services,86.2,REJECT
+falvera hq diagnostics services,,,NO_MATCH
+zentara ir services,,,NO_MATCH
+rovian ks materials services,,,NO_MATCH
+iskora ks materials services,,,NO_MATCH
+calvion ls packaging services,,,NO_MATCH
+kestrelis ls packaging services,,,NO_MATCH
+glenvex ms payments services,glenvex iq payments services,92.9,ACCEPT
+rovian mt pharma services,rovian hy pharma services,92.0,ACCEPT
+yorvex nt retail services,,,NO_MATCH
+praxon nt robotics services,,,NO_MATCH
+orvanta ot software services,,,NO_MATCH
+deltora pu supply services,eldora lr supply services,86.3,REJECT
+veltrix pu supply services,veltrix lr supply services,92.3,ACCEPT
+kestrelis pu therapeutics services,kestrelis lr therapeutics services,94.1,ACCEPT
+yantara qu therapeutics services,,,NO_MATCH
+helvar qu training services,helvar jh training services,92.6,ACCEPT
+wexforda rv ventures services,,,NO_MATCH
+javora sv warehousing services,,,NO_MATCH
+ivanto tv workspace services,ivanto na workspace services,89.3,ACCEPT
+rovian uw biosystems international,rovian td biosystems international,94.1,ACCEPT
+helvar vw cloudworks international,eldora vw cloudworks international,91.2,REJECT
+eldora vw components international,eldora nr components international,94.1,ACCEPT
+haverno ww diagnostics international,haverno ww diagnostics intl,85.7,ACCEPT
+nexora xx gridworks international,rovian xx gridworks international,87.9,REJECT
+orvanta yx imaging international,orvanta xf imaging international,96.9,ACCEPT
+uldora zx logistics international,uldora rs logistics international,90.9,ACCEPT
+arvello zy materials international,eldora zy materials international,89.6,REJECT
+lorven zy materials international,jorvik zy materials international,90.9,REJECT
+vantigo by packaging international,vantigo ul packaging international,91.2,ACCEPT
+quenvale by payments international,,,NO_MATCH
+brinora by payments international,,,NO_MATCH
+zentara cz pharma international,,,NO_MATCH
+ivanto cz retail international,kelvanto bh retail international,87.1,REJECT
+dorsen fa tools international,,,NO_MATCH
+ravelin ga tools international,,,NO_MATCH
+tervano ga tools international,orvanta fa tools international,86.7,REJECT
+eldora ga training international,eldora wc training international,90.6,ACCEPT
+rovian ga training international,orvanta ei training international,86.2,REJECT
+deltora ga training international,deltora yv training international,90.9,ACCEPT
+evorin ga training international,evorin cx training international,90.6,ACCEPT
+glenvex hb ventures international,galvex xd ventures international,86.2,REJECT
+dorsen hb warehousing international,dorsen dy warehousing international,94.3,ACCEPT
+brinora hb warehousing international,,,NO_MATCH
+kelvanto ib wellness international,ravelin ib wellness international,86.6,REJECT
+dorsen ib workspace international,,,NO_MATCH
+qintara lc cloudworks,yantara lc cloudworks,90.5,REJECT
+lunaro lc components,,,NO_MATCH
+arvello lc components,arvello yy components,90.5,ACCEPT
+galvex lc diagnostics,galvex js diagnostics,90.5,ACCEPT
+yantara mc diagnostics,yantara fc diagnostics,95.5,ACCEPT
+brinora nd,,,NO_MATCH
+praxon nd,praxon dj,88.9,ACCEPT
+fintara nd imaging,fintara qf imaging,88.9,ACCEPT
+veltrix pe materials,veltrix mk materials,90.0,ACCEPT
+praxon pe mobility,,,NO_MATCH
+zentara qe packaging,zentara cr packaging,85.0,ACCEPT
+falvera re payments,,,NO_MATCH
+iskora sf retail,iskora to retail,87.5,ACCEPT
+ulvero sf robotics,,,NO_MATCH
+wendora sf robotics,,,NO_MATCH
+avenor sf security,avenor wz security,88.9,ACCEPT
+braxen tf software,,,NO_MATCH
+ivanto tf software,,,NO_MATCH
+kestrelis tf software,kestrelis mf software,85.7,ACCEPT
+evorin tf software,,,NO_MATCH
+praxon ug supply,,,NO_MATCH
+uldora ug supply,,,NO_MATCH
+wendora vg therapeutics,wendora xh therapeutics,87.0,ACCEPT
+kelvanto vg tools,,,NO_MATCH
+qintara xh ventures,,,NO_MATCH
+yantara xh ventures,,,NO_MATCH
+evorin yh workspace,,,NO_MATCH
+haverno yh workspace,haverno mv workspace,85.0,ACCEPT
+braxen zh biosystems,braxen biosystems,91.9,ACCEPT
+galvex zh biosystems,galvex bj biosystems,85.0,ACCEPT
+rovian zi biosystems,solvanta zi biosystems,85.7,REJECT
+dorsen ej materials,,,NO_MATCH
+tervano fk mobility,,,NO_MATCH
+nexora fk networks,wexforda fk networks,89.5,REJECT
+solvanta fk networks,solvanta es networks,90.0,ACCEPT
+mavrix fk packaging,,,NO_MATCH
+haverno gk payments,,,NO_MATCH
+cendrix hl retail,cendrix hc retail,94.1,ACCEPT
+falvera il robotics,,,NO_MATCH
+zentara il security,zentara la security,94.7,ACCEPT
+eldora il software,eldora mf software,88.9,ACCEPT
+lorven jl software,lorven kv software,88.9,ACCEPT
+novaris jl software,novaris ki software,89.5,ACCEPT
+prysmar lm transport,prysmar mj transport,95.0,ACCEPT
+solvanta lm transport,solvanta jl transport,95.2,ACCEPT
+xylera lm transport,,,NO_MATCH
+javora lm transport,javora tn transport,89.5,ACCEPT
+braxen mn warehousing,braxen qg warehousing,90.5,ACCEPT
+nexora mn warehousing,nexora fz warehousing,90.5,ACCEPT
+evorin mn warehousing,evorin km warehousing,95.2,ACCEPT
+kelvanto mn warehousing,kelvanto tr warehousing,91.3,ACCEPT
+tervano nn warehousing,tervano bb warehousing,90.9,ACCEPT
+ostera nn wellness,ostera ai wellness,88.9,ACCEPT
+javora nn workspace,javora tv workspace,89.5,ACCEPT
+javora po clinics,,,NO_MATCH
+eldora qo diagnostics,eldora jb diagnostics,90.5,ACCEPT
+prysmar qo diagnostics,prysmar oe diagnostics,86.4,ACCEPT
+ivanto ro foods,,,NO_MATCH
+uldora rp foods,uldora nm foods,86.7,ACCEPT
+ulvero sp imaging,ulvero rx imaging,88.2,ACCEPT
+qintara uq materials,,,NO_MATCH
+jorvik uq mobility,jorvik pe mobility,88.9,ACCEPT
+cendrix uq mobility,,,NO_MATCH
+ostera uq mobility,ostera yx mobility,88.9,ACCEPT
+ravelin uq mobility,,,NO_MATCH
+cendrix vq networks,,,NO_MATCH
+kelvanto vq networks,kelvanto qe networks,95.0,ACCEPT
+fintara wq pharma,fintara qv pharma,94.1,ACCEPT
+braxen wr retail,braxen zf retail,87.5,ACCEPT
+fintara xr robotics,,,NO_MATCH
+glenvex yr security,,,NO_MATCH
+rovian yr software,rovian tf software,88.9,ACCEPT
+veltrix as tools,veltrix fr tools,87.5,ACCEPT
+haverno as training,,,NO_MATCH
+novaris as training,novaris hw training labs,88.4,ACCEPT
+ulvero bs ventures,ulvero nf ventures,88.9,ACCEPT
+uldora bt ventures,uldora nf ventures,88.9,ACCEPT
+nexora dt workspace,nexora mv workspace,89.5,ACCEPT
+tarsen et biosystems,tarsen et biosys,88.9,ACCEPT
+yantara fu clinics,yantara un clinics,94.4,ACCEPT
+cendrix gu diagnostics,,,NO_MATCH
+orvanta hv,,,NO_MATCH
+sorevia iv imaging,sorevia od imaging,88.9,ACCEPT
+rovian kw networks,rovian dw networks sys,85.0,ACCEPT
+ivanto kw packaging,ivanto je packaging,89.5,ACCEPT
+evorin mx pharma,evorin fs pharma,87.5,ACCEPT
+braxen mx retail,,,NO_MATCH
+ravelin nx robotics,,,NO_MATCH
+calvion nx security,calvion jh security,89.5,ACCEPT
+lorven nx security,,,NO_MATCH
+kelvanto ox software,kelvanto ak software,85.0,ACCEPT
+jorvik ox supply,jorvik ol supply,93.8,ACCEPT
+zentara py therapeutics,zentara li therapeutics,91.3,ACCEPT
+kelvanto qy training,kelvanto ql training,95.0,ACCEPT
+fintara qy transport,,,NO_MATCH
+solvanta qy transport,solvanta jl transport,90.5,ACCEPT
+deltora sz wellness,,,NO_MATCH
+tervano sz wellness,tervano bb wellness,89.5,ACCEPT
+lunaro tz analytics labs,qintara tz analytics labs,85.7,REJECT
+eldora tz biosystems labs,,,NO_MATCH
+rovian tz biosystems labs,rovian tz biosys labs,91.3,ACCEPT
+falvera ta biosystems labs,,,NO_MATCH
+wendora ua biosystems labs,wexforda lu biosystems labs,86.8,REJECT
+deltora va components labs,deltora rx components labs,92.3,ACCEPT
+rovian wb gridworks labs,,,NO_MATCH
+solvanta xb labs,,,NO_MATCH
+evorin xb imaging labs,evorin od imaging labs,90.9,ACCEPT
+ravelin yb logistics labs,,,NO_MATCH
+ivanto yb materials labs,ivanto ro materials labs,91.7,ACCEPT
+orvanta zc mobility labs,orvanta vz mobility labs,95.8,ACCEPT
+kelvanto zc mobility labs,,,NO_MATCH
+tervano ac packaging labs,xylera ac packaging labs,85.7,REJECT
+braxen ac payments labs,braxen vh payments labs,87.0,ACCEPT
+meroxa dd security labs,meroxa at security labs,91.3,ACCEPT
+solvanta dd software labs,solvanta wq software labs,88.0,ACCEPT
+deltora ed supply labs,,,NO_MATCH
+galvex fe transport labs,glenvex ge transport labs,89.8,REJECT
+glenvex hf wellness labs,galvex ix wellness labs,85.1,REJECT
+quenvale if workspace labs,,,NO_MATCH
+uldora if analytics solutions,uldora ky analytics solutions,93.1,ACCEPT
+eldora jf biosystems solutions,evorin jf biosystems solutions,90.0,REJECT
+calvion kg cloudworks solutions,calvion kg cloudworks solns,93.1,ACCEPT
+helvar kg cloudworks solutions,helvar kg cloudworks solns,92.9,ACCEPT
+brinora kg cloudworks solutions,,,NO_MATCH
+calvion kg components solutions,calvion fl components solns,86.2,ACCEPT
+lorven kg components solutions,lorven kg components solns,92.9,ACCEPT
+falvera lg foods solutions,falvera jw foods solutions,92.3,ACCEPT
+brinora pi networks solutions,brinora pi networks solns,92.6,ACCEPT
+helvar qi pharma solutions,lunaro qi pharma solutions,88.5,REJECT
+jorvik qi pharma solutions,jorvik qi pharma solns,91.7,ACCEPT
+quenvale sj security solutions,quenvale pz security solutions,90.0,ACCEPT
+tarsen tj software solutions,,,NO_MATCH
+falvera tj software solutions,,,NO_MATCH
+lunaro tk therapeutics solutions,,,NO_MATCH
+meroxa uk therapeutics solutions,meroxa uk therapeutics solns,93.3,ACCEPT
+jorvik uk tools solutions,jorvik uk tools solns,91.3,ACCEPT
+mavrix uk training solutions,mavrix wc training solutions,92.9,ACCEPT
+yorvex vk training solutions,yorvex vk training solns,92.3,ACCEPT
+praxon vk training solutions,,,NO_MATCH
+novaris vk transport solutions,novaris nf transport solutions,90.0,ACCEPT
+wendora vk transport solutions,zentara vk transport solutions,90.0,REJECT
+kestrelis wl warehousing solutions,kestrelis si warehousing solutions,91.2,ACCEPT
+rovian wl warehousing solutions,falvera wl warehousing solutions,85.7,REJECT
+lorven xl wellness solutions,lorven xl wellness solns,92.3,ACCEPT
+yantara xl workspace solutions,,,NO_MATCH
+wexforda yl analytics systems,wexforda yl analytics sys,92.6,ACCEPT
+yantara yl analytics systems,yantara ry analytics systems,89.3,ACCEPT
+xylera yl biosystems systems,,,NO_MATCH
+meroxa yl biosystems systems,,,NO_MATCH
+praxon ym biosystems systems,,,NO_MATCH
+braxen zm cloudworks systems,braxen rg cloudworks systems,89.3,ACCEPT
+nexora zm cloudworks systems,nexora ur cloudworks systems,92.9,ACCEPT
+sorevia am components systems,,,NO_MATCH
+haverno am diagnostics systems,javora am diagnostics systems,88.1,REJECT
+quenvale cn systems,,,NO_MATCH
+galvex cn imaging systems,glenvex bv imaging systems,86.3,REJECT
+quenvale dn materials systems,quenvale dn materials sys,92.6,ACCEPT
+brinora dn materials systems,brinora dn materials sys,92.3,ACCEPT
+vantigo eo mobility systems,vantigo eo mobility sys,92.0,ACCEPT
+jorvik fo payments systems,,,NO_MATCH
+tarsen fo payments systems,tarsen hg payments systems,92.3,ACCEPT
+wexforda fo payments systems,wexforda ew payments systems,92.9,ACCEPT
+zentara fo payments systems,,,NO_MATCH
+falvera go payments systems,falvera hg payments systems,96.3,ACCEPT
+rovian gp retail systems,rovian gp retail sys,90.9,ACCEPT
+veltrix hp retail systems,,,NO_MATCH
+avenor hp robotics systems,avenor hp robotics sys,91.7,ACCEPT
+ulvero hp security systems,ulvero dm security systems,92.3,ACCEPT
+zentara ip security systems,zentara ip security sys,92.0,ACCEPT
+jorvik ip software systems,jorvik jh software systems,92.3,ACCEPT
+deltora ip software systems,,,NO_MATCH
+deltora jp supply systems,javora jp supply systems,85.7,REJECT
+wendora jq supply systems,,,NO_MATCH
+mavrix jq therapeutics systems,,,NO_MATCH
+javora jq therapeutics systems,falvera jq therapeutics systems,91.8,REJECT
+kelvanto jq therapeutics systems,,,NO_MATCH
+evorin kq tools systems,evorin gn tools systems,91.3,ACCEPT
+javora kq training systems,,,NO_MATCH
+kelvanto kq training systems,kelvanto fv training systems,89.3,ACCEPT
+novaris kq training systems,novaris mi training systems,92.6,ACCEPT
+orvanta kq transport systems,,,NO_MATCH
+qintara lq transport systems,qintara ho transport systems,92.9,ACCEPT
+rovian lq ventures systems,praxon lq ventures systems,88.5,REJECT
+javora lq ventures systems,javora lq ventures sys,91.7,ACCEPT
+brinora mr warehousing systems,brinora mr warehousing sys,92.9,ACCEPT
+lunaro mr wellness systems,lunaro nj wellness systems,92.3,ACCEPT
+deltora mr wellness systems,deltora io wellness systems,92.6,ACCEPT
+braxen nr analytics technologies,braxen ge analytics technologies,93.8,ACCEPT
+quenvale nr analytics technologies,quenvale nr analytics tech,86.7,ACCEPT
+tarsen nr analytics technologies,orvanta nr analytics technologies,86.2,REJECT
+prysmar or biosystems technologies,,,NO_MATCH
+deltora or biosystems technologies,deltora gm biosystems technologies,94.1,ACCEPT
+eldora os clinics technologies,,,NO_MATCH
+xylera os clinics technologies,xylera nz clinics technologies,93.3,ACCEPT
+iskora ps cloudworks technologies,iskora na cloudworks technologies,93.9,ACCEPT
+yantara ps components technologies,yantara ni components technologies,94.1,ACCEPT
+braxen qs diagnostics technologies,,,NO_MATCH
+helvar qs diagnostics technologies,nexora qs diagnostics technologies,88.2,REJECT
+lunaro qs diagnostics technologies,fintara qs diagnostics technologies,89.9,REJECT
+jorvik qs foods technologies,,,NO_MATCH
+tervano qs foods technologies,,,NO_MATCH
+brinora rt gridworks technologies,avenor rt gridworks technologies,89.2,REJECT
+javora rt gridworks technologies,praxon rt gridworks technologies,87.5,REJECT
+wendora st imaging technologies,,,NO_MATCH
+galvex st logistics technologies,galvex rb logistics technologies,93.8,ACCEPT
+glenvex st logistics technologies,galvex rb logistics technologies,89.2,REJECT
+wexforda tt materials technologies,wexforda pr materials technologies,91.2,ACCEPT
+haverno tt materials technologies,haverno pr materials technologies,90.9,ACCEPT
+yantara tu materials technologies,yantara tu materials tech,86.2,ACCEPT
+yantara uu mobility technologies,yantara uu mobility tech,85.7,ACCEPT
+quenvale vu pharma technologies,,,NO_MATCH
+sorevia wu pharma technologies,,,NO_MATCH
+calvion wv retail technologies,calvion uc retail technologies,93.3,ACCEPT
+veltrix wv retail technologies,veltrix ra retail technologies,90.0,ACCEPT
+xylera wv robotics technologies,,,NO_MATCH
+eldora yv supply technologies,eldora qq supply technologies,89.7,ACCEPT
+lunaro yv supply technologies,,,NO_MATCH
+glenvex zw tools technologies,,,NO_MATCH
+qintara zw tools technologies,qintara tl technologies,88.5,ACCEPT
+deltora aw training technologies,deltora tj training technologies,90.6,ACCEPT
+meroxa aw training technologies,meroxa aw training tech,85.2,ACCEPT
+javora aw transport technologies,ravelin aw transport technologies,86.2,REJECT
+galvex aw ventures technologies,,,NO_MATCH
+jorvik aw ventures technologies,,,NO_MATCH
+nexora aw ventures technologies,eldora cp ventures technologies,87.1,REJECT
+iskora bw ventures technologies,iskora vb ventures technologies,90.3,ACCEPT
+qintara bx warehousing technologies,sorevia bx warehousing technologies,85.7,REJECT
+quenvale cx wellness technologies,quenvale af wellness technologies,93.9,ACCEPT
+veltrix cx wellness technologies,,,NO_MATCH
+lorven dx analytics services,lorven ep analytics services,92.9,ACCEPT
+brinora dx biosystems services,brinora vs biosystems services,90.0,ACCEPT
+tervano ey cloudworks services,tervano ws cloudworks services,90.0,ACCEPT
+wendora gy foods services,wendora fg foods services,88.0,ACCEPT
+qintara hz imaging services,,,NO_MATCH
+calvion ja networks services,calvion cm networks services,92.9,ACCEPT
+uldora la payments services,uldora ff payments services,92.6,ACCEPT
+falvera lb retail services,falvera fn retail services,92.3,ACCEPT
+cendrix mb robotics services,,,NO_MATCH
+rovian mb security services,,,NO_MATCH
+deltora mb security services,evorin mb security services,87.3,REJECT
+novaris nb security services,,,NO_MATCH
+brinora pc training services,avenor pc training services,87.3,REJECT
+kelvanto pc training services,kelvanto hx training services,89.7,ACCEPT
+sorevia pc training services,,,NO_MATCH
+falvera qc ventures services,falvera ma ventures services,92.9,ACCEPT
+ravelin qc ventures services,,,NO_MATCH
+mavrix qd warehousing services,mavrix kp warehousing services,90.0,ACCEPT
+haverno rd warehousing services,avenor pk warehousing services,88.5,REJECT
+braxen rd wellness services,,,NO_MATCH
+yorvex sd analytics international,yorvex rl analytics international,93.9,ACCEPT
+tervano td biosystems international,wendora qt biosystems international,85.7,REJECT
+vantigo ue cloudworks international,vantigo rt cloudworks international,94.3,ACCEPT
+helvar ue components international,eldora nr components international,85.3,REJECT
+rovian ve diagnostics international,tervano ve diagnostics international,93.0,REJECT
+vantigo ve diagnostics international,tervano ve diagnostics international,91.7,REJECT
+uldora ve diagnostics international,sorevia ve diagnostics international,90.1,REJECT
+solvanta ve foods international,orvanta um foods international,88.5,REJECT
+helvar we gridworks international,,,NO_MATCH
+kelvanto xf imaging international,orvanta xf imaging international,89.2,REJECT
+prysmar yf materials international,tarsen yf materials international,86.6,REJECT
+iskora yg mobility international,,,NO_MATCH
+kelvanto zg networks international,,,NO_MATCH
+uldora ag payments international,ravelin ag payments international,86.2,REJECT
+avenor ag pharma international,haverno zo pharma international,85.2,REJECT
+fintara bh robotics international,,,NO_MATCH
+solvanta bh robotics international,solvanta vu robotics international,91.2,ACCEPT
+ostera ch robotics international,nexora bh robotics international,87.5,REJECT
+tervano dh software international,tervano uc software international,90.9,ACCEPT
+eldora dh supply international,eldora ax supply international,93.3,ACCEPT
+nexora dh supply international,,,NO_MATCH
+yorvex dh supply international,yorvex ea supply international,93.3,ACCEPT
+haverno dh supply international,,,NO_MATCH
+yantara dh supply international,yantara zf supply international,90.3,ACCEPT
+calvion ei training international,calvion ga training international,93.9,ACCEPT
+lunaro ei training international,orvanta ei training international,86.2,REJECT
+qintara fi training international,qintara wd training international,90.9,ACCEPT
+yantara fi training international,yantara ga training international,93.9,ACCEPT
+tervano fi transport international,quenvale fi transport international,87.0,REJECT
+falvera gj warehousing international,avenor cg warehousing international,90.1,REJECT
+zentara hj workspace international,,,NO_MATCH
+javora hj workspace international,wendora hj workspace international,89.6,REJECT
+veltrix ij analytics,,,NO_MATCH
+prysmar jk cloudworks,prysmar jb cloudworks,95.2,ACCEPT
+iskora jk cloudworks,iskora qo cloudworks,90.0,ACCEPT
+brinora kk components,brinora hz components,90.5,ACCEPT
+rovian lk foods,rovian oe foods,86.7,ACCEPT
+arvello ll gridworks,arvello pe gridworks,90.0,ACCEPT
+deltora ml,,,NO_MATCH
+sorevia ml,,,NO_MATCH
+rovian nl logistics,rovian lt logistics,94.7,ACCEPT
+solvanta nl logistics,solvanta lk logistics,85.7,ACCEPT
+deltora nl logistics,deltora ve logistics,90.0,ACCEPT
+prysmar ol mobility,,,NO_MATCH
+yantara qm pharma,,,NO_MATCH
+brinora qn retail,brinora mk retail,88.2,ACCEPT
+lorven rn robotics,lorven nk robotics,94.4,ACCEPT
+kelvanto rn security,,,NO_MATCH
+iskora sn supply,iskora rm supply,87.5,ACCEPT
+kelvanto to therapeutics,tervano to therapeutics,89.4,REJECT
+helvar to tools,helvar hs tools,86.7,ACCEPT
+yantara uo training,,,NO_MATCH
+arvello xp workspace,arvello lm workspace,85.0,ACCEPT
+praxon xp workspace,,,NO_MATCH
+quenvale xp biosystems,quenvale xg biosystems,95.5,ACCEPT
+praxon yq clinics,praxon qg clinics,94.1,ACCEPT
+orvanta yq cloudworks,orvanta yh cloudworks,95.2,ACCEPT
+uldora zq cloudworks,eldora qk cloudworks,90.0,REJECT
+lunaro zq components,,,NO_MATCH
+javora aq diagnostics,javora ia diagnostics,85.7,ACCEPT
+javora cr imaging,javora fl imaging,88.2,ACCEPT
+evorin cr logistics,,,NO_MATCH
+ravelin cr logistics,ravelin lk logistics,90.0,ACCEPT
+lunaro dr mobility,lunaro gc mobility,88.9,ACCEPT
+nexora es networks,wexforda es networks,89.5,REJECT
+tarsen es networks,tarsen ls networks,94.4,ACCEPT
+cendrix es packaging,cendrix iz packaging,90.0,ACCEPT
+braxen fs payments,braxen ej payments,88.9,ACCEPT
+tarsen gt robotics,tarsen by robotics,88.9,ACCEPT
+kestrelis ht security,kestrelis gk security,90.5,ACCEPT
+arvello iu therapeutics,arvello si therapeutics tech,86.3,ACCEPT
+rovian ju tools,rovian ot tools,86.7,ACCEPT
+tervano ju tools,tervano ch tools,87.5,ACCEPT
+kelvanto lv warehousing,kelvanto tr warehousing,91.3,ACCEPT
+ravelin lv warehousing,ravelin nn warehousing,90.9,ACCEPT
+ivanto lv wellness,ivanto tr wellness,88.9,ACCEPT
+qintara mv wellness,qintara nn wellness,89.5,ACCEPT
+helvar nv biosystems,helvar xg biosystems,90.0,ACCEPT
+tarsen nv biosystems,tarsen nv biosys,88.9,ACCEPT
+arvello ow clinics,arvello eu clinics,88.9,ACCEPT
+avenor pw diagnostics,avenor hm diagnostics,90.5,ACCEPT
+orvanta pw foods,orvanta sh foods,87.5,ACCEPT
+meroxa qx gridworks,,,NO_MATCH
+haverno sx logistics,haverno da logistics,85.0,ACCEPT
+ravelin ty mobility,ravelin bd mobility sys,85.7,ACCEPT
+avenor ty networks,avenor od networks,88.9,ACCEPT
+deltora ty networks,deltora vq networks,89.5,ACCEPT
+avenor uy payments,haverno uy payments,91.9,REJECT
+uldora vy pharma,,,NO_MATCH
+braxen vy retail,braxen zf retail,87.5,ACCEPT
+iskora wz robotics,iskora zj robotics,94.4,ACCEPT
+ravelin yz supply,,,NO_MATCH
+tarsen yz therapeutics,tarsen le therapeutics,86.4,ACCEPT
+ulvero yz therapeutics,ulvero vp therapeutics,90.9,ACCEPT
+sorevia ya therapeutics,sorevia fa therapeutics,87.0,ACCEPT
+tarsen ya tools,,,NO_MATCH
+galvex aa ventures,,,NO_MATCH
+quenvale aa ventures,quenvale jc ventures,90.0,ACCEPT
+tarsen aa warehousing,tarsen fa warehousing,95.2,ACCEPT
+prysmar bb wellness,prysmar ib wellness,94.7,ACCEPT
+falvera bb wellness,,,NO_MATCH
+braxen cb analytics,braxen ru analytics,89.5,ACCEPT
+galvex cb biosystems,galvex bj biosystems,95.0,ACCEPT
+deltora db clinics,,,NO_MATCH
+cendrix ec components,,,NO_MATCH
+tervano fc diagnostics,tervano uv diagnostics,86.4,ACCEPT
+dorsen fc foods,,,NO_MATCH
+ostera gd gridworks,,,NO_MATCH
+solvanta gd,solvanta ds,90.9,ACCEPT
+lunaro hd logistics,lunaro kn logistics,89.5,ACCEPT
+fintara id mobility,fintara jw mobility,89.5,ACCEPT
+mavrix id mobility,,,NO_MATCH
+praxon ke pharma,,,NO_MATCH
+braxen ke retail,,,NO_MATCH
+tervano lf robotics,tervano hc robotics,89.5,ACCEPT
+glenvex nf therapeutics,glenvex jd therapeutics,91.3,ACCEPT
+wexforda og tools,,,NO_MATCH
+yorvex og training,yorvex sn training,88.9,ACCEPT
+galvex pg ventures,galvex oo ventures,88.9,ACCEPT
+kelvanto pg ventures,kelvanto uw ventures,90.0,ACCEPT
+solvanta qg warehousing,,,NO_MATCH
+prysmar sh biosystems labs,prysmar sh biosys labs,91.7,ACCEPT
+ostera sh biosystems labs,meroxa sh biosystems labs,88.0,REJECT
+wendora sh biosystems labs,wendora sh biosys labs,91.7,ACCEPT
+galvex sh clinics labs,,,NO_MATCH
+brinora sh clinics labs,,,NO_MATCH
+uldora ti clinics labs,,,NO_MATCH
+wendora ti clinics labs,,,NO_MATCH
+helvar ti components labs,helvar ws components labs,92.0,ACCEPT
+calvion ui foods labs,,,NO_MATCH
+solvanta vi gridworks labs,solvanta ll gridworks,85.1,ACCEPT
+sorevia wj labs,,,NO_MATCH
+helvar wj imaging labs,helvar zt imaging labs,90.9,ACCEPT
+kestrelis wj imaging labs,,,NO_MATCH
+ravelin wj imaging labs,,,NO_MATCH
+ivanto wj logistics labs,kelvanto xj logistics labs,88.0,REJECT
+wexforda yj mobility labs,,,NO_MATCH
+arvello yj mobility labs,,,NO_MATCH
+haverno yj mobility labs,avenor th mobility labs,85.1,REJECT
+qintara yk mobility labs,,,NO_MATCH
+calvion yk networks labs,calvion lb networks,88.4,ACCEPT
+javora yk networks labs,iskora yk networks labs,87.0,REJECT
+evorin ak pharma labs,,,NO_MATCH
+haverno ak pharma labs,,,NO_MATCH
+ravelin ak pharma labs,ravelin dv pharma labs,90.9,ACCEPT
+ravelin bl robotics labs,ravelin as robotics labs,91.7,ACCEPT
+nexora cl supply labs,,,NO_MATCH
+novaris em training labs,novaris fe training labs,95.8,ACCEPT
+uldora gn warehousing labs,,,NO_MATCH
+jorvik gn wellness labs,jorvik hf wellness labs,91.3,ACCEPT
+kelvanto gn wellness labs,,,NO_MATCH
+ravelin gn wellness labs,ravelin hf wellness labs,91.7,ACCEPT
+wexforda hn biosystems solutions,wendora el biosystems solutions,85.7,REJECT
+sorevia jo cloudworks solutions,sorevia kg cloudworks solutions,93.5,ACCEPT
+meroxa ko foods solutions,,,NO_MATCH
+zentara lo gridworks solutions,zentara lo gridworks solns,92.9,ACCEPT
+evorin lo gridworks solutions,evorin gm gridworks solutions,89.7,ACCEPT
+wendora lp solutions,wendora oz solutions,90.0,ACCEPT
+ivanto lp imaging solutions,ivanto fc imaging solutions,88.9,ACCEPT
+calvion mp logistics solutions,,,NO_MATCH
+eldora mp logistics solutions,avenor pz logistics solutions,86.2,REJECT
+calvion nq networks solutions,,,NO_MATCH
+tarsen oq networks solutions,,,NO_MATCH
+mavrix oq payments solutions,mavrix kn payments solutions,89.3,ACCEPT
+arvello qr robotics solutions,lorven qr robotics solutions,87.7,REJECT
+zentara rr security solutions,zentara lw security solutions,93.1,ACCEPT
+novaris rr software solutions,novaris rr software solns,92.6,ACCEPT
+tervano rr software solutions,,,NO_MATCH
+lunaro sr therapeutics solutions,,,NO_MATCH
+sorevia sr therapeutics solutions,,,NO_MATCH
+galvex ts tools solutions,arvello ts tools solutions,86.3,REJECT
+quenvale ts tools solutions,,,NO_MATCH
+wendora ts tools solutions,,,NO_MATCH
+vantigo ts training solutions,,,NO_MATCH
+yorvex ts training solutions,yorvex pp training solutions,89.3,ACCEPT
+novaris ts training solutions,evorin ts training solutions,87.7,REJECT
+galvex us transport solutions,galvex rh transport solutions,89.7,ACCEPT
+javora us ventures solutions,fintara us ventures solutions,87.7,REJECT
+lorven vs warehousing solutions,,,NO_MATCH
+praxon vs warehousing solutions,,,NO_MATCH
+kestrelis vt wellness solutions,kestrelis vt wellness solns,93.1,ACCEPT
+uldora wt wellness solutions,uldora wt wellness solns,92.3,ACCEPT
+rovian wt analytics systems,rovian vb analytics systems,92.6,ACCEPT
+evorin xt clinics systems,evorin xt clinics sys,91.3,ACCEPT
+wendora yt clinics systems,wendora zm clinics systems,92.3,ACCEPT
+avenor yu components systems,,,NO_MATCH
+lunaro yu components systems,ivanto yu components systems,85.7,REJECT
+rovian yu components systems,ivanto yu components systems,89.3,REJECT
+avenor zu diagnostics systems,avenor am diagnostics systems,89.7,ACCEPT
+ostera zu diagnostics systems,ostera zu diagnostics sys,92.6,ACCEPT
+iskora au gridworks systems,iskora au gridworks sys,92.0,ACCEPT
+wendora bv systems,,,NO_MATCH
+avenor cv materials systems,avenor cv materials sys,92.0,ACCEPT
+eldora cv materials systems,deltora bd materials systems,87.3,REJECT
+lunaro cv materials systems,,,NO_MATCH
+tarsen cv mobility systems,,,NO_MATCH
+calvion dw networks systems,,,NO_MATCH
+galvex ew payments systems,galvex ew payments sys,91.7,ACCEPT
+rovian ew payments systems,,,NO_MATCH
+veltrix ew payments systems,vantigo ew payments systems,85.2,REJECT
+helvar fw retail systems,helvar fw retail sys,90.9,ACCEPT
+nexora fw retail systems,nexora fw retail sys,90.9,ACCEPT
+javora gx robotics systems,javora gx robotics sys,91.7,ACCEPT
+arvello gx security systems,deltora gx security systems,85.2,REJECT
+kestrelis ix therapeutics systems,kestrelis dv therapeutics sys,87.1,ACCEPT
+tarsen ix therapeutics systems,tarsen cc therapeutics sys,85.7,ACCEPT
+cendrix ix therapeutics systems,evorin ix therapeutics systems,88.5,REJECT
+haverno iy tools systems,,,NO_MATCH
+glenvex jy training systems,glenvex hg training systems,92.6,ACCEPT
+javora ky warehousing systems,haverno ky warehousing systems,88.1,REJECT
+uldora lz wellness systems,uldora lz wellness sys,91.7,ACCEPT
+zentara lz workspace systems,zentara lz workspace sys,92.3,ACCEPT
+avenor mz analytics technologies,galvex mz analytics technologies,90.6,REJECT
+prysmar mz analytics technologies,rovian mz analytics technologies,86.2,REJECT
+ostera mz analytics technologies,rovian mz analytics technologies,87.5,REJECT
+jorvik mz biosystems technologies,,,NO_MATCH
+yantara nz biosystems technologies,yantara kp biosystems technologies,94.1,ACCEPT
+orvanta na cloudworks technologies,iskora na cloudworks technologies,86.6,REJECT
+vantigo na cloudworks technologies,tervano jx cloudworks technologies,85.3,REJECT
+quenvale oa components technologies,quenvale if components technologies,94.3,ACCEPT
+novaris oa components technologies,novaris oa components tech,86.7,ACCEPT
+jorvik oa diagnostics technologies,evorin rk diagnostics technologies,85.3,REJECT
+nexora pa foods technologies,,,NO_MATCH
+ravelin pa foods technologies,,,NO_MATCH
+yantara pa foods technologies,,,NO_MATCH
+orvanta pa gridworks technologies,,,NO_MATCH
+avenor qa technologies,,,NO_MATCH
+ulvero qb technologies,,,NO_MATCH
+meroxa qb technologies,,,NO_MATCH
+xylera rb logistics technologies,uldora rb logistics technologies,90.6,REJECT
+zentara rb logistics technologies,yantara rb logistics technologies,93.9,REJECT
+braxen rb materials technologies,dorsen rb materials technologies,90.6,REJECT
+eldora rb materials technologies,deltora sb materials technologies,92.3,REJECT
+falvera uc pharma technologies,javora uc pharma technologies,91.5,REJECT
+yorvex vc retail technologies,yorvex qa retail technologies,89.7,ACCEPT
+tervano vd robotics technologies,,,NO_MATCH
+calvion vd security technologies,ravelin xv security technologies,87.5,REJECT
+fintara wd software technologies,orvanta wd software technologies,87.5,REJECT
+meroxa xd supply technologies,,,NO_MATCH
+novaris xd supply technologies,novaris tb supply technologies,90.0,ACCEPT
+ravelin xd therapeutics technologies,ravelin rq therapeutics technologies,91.7,ACCEPT
+eldora xd tools technologies,eldora wl tools technologies,92.9,ACCEPT
+braxen ye training technologies,,,NO_MATCH
+calvion ye training technologies,calvion ye training tech,85.7,ACCEPT
+jorvik ye training technologies,jorvik ye training tech,85.2,ACCEPT
+evorin ye training technologies,,,NO_MATCH
+falvera ye training technologies,javora ub training technologies,85.7,REJECT
+praxon ye training technologies,praxon ye training tech,85.2,ACCEPT
+vantigo ze transport technologies,,,NO_MATCH
+glenvex bf analytics services,glenvex wk analytics services,89.7,ACCEPT
+kelvanto cf clinics services,eldora cf clinics services,85.2,REJECT
+qintara cf clinics services,,,NO_MATCH
+falvera dg cloudworks services,falvera av cloudworks services,90.0,ACCEPT
+praxon eg components services,praxon components services,94.5,ACCEPT
+braxen fg services,,,NO_MATCH
+haverno fh services,,,NO_MATCH
+vantigo gh imaging services,,,NO_MATCH
+arvello hh mobility services,arvello ks mobility services,92.9,ACCEPT
+avenor ih networks services,,,NO_MATCH
+helvar ii packaging services,,,NO_MATCH
+kestrelis ii packaging services,,,NO_MATCH
+tervano ji payments services,tervano la payments services,92.9,ACCEPT
+uldora ki pharma services,,,NO_MATCH
+rovian ki retail services,,,NO_MATCH
+arvello ki retail services,avenor iq retail services,86.3,REJECT
+kestrelis lj security services,,,NO_MATCH
+brinora ok training services,,,NO_MATCH
+evorin ok training services,,,NO_MATCH
+qintara ok training services,fintara mr training services,85.7,REJECT
+fintara pk warehousing services,lunaro pk warehousing services,88.5,REJECT
+braxen rl biosystems international,haverno rl biosystems international,89.9,REJECT
+jorvik sl clinics international,,,NO_MATCH
+solvanta sm cloudworks international,yantara tm cloudworks international,87.3,REJECT
+tarsen sm cloudworks international,prysmar ue cloudworks international,87.0,REJECT
+wexforda sm cloudworks international,wendora oj cloudworks international,87.3,REJECT
+deltora sm cloudworks international,eldora vw cloudworks international,89.9,REJECT
+evorin sm cloudworks international,falvera sm cloudworks international,87.0,REJECT
+kelvanto sm cloudworks international,,,NO_MATCH
+orvanta tm components international,rovian tm components international,92.8,REJECT
+uldora um diagnostics international,ravelin um diagnostics international,87.3,REJECT
+lunaro um foods international,javora um foods international,86.2,REJECT
+iskora um gridworks international,iskora wf gridworks international,93.9,ACCEPT
+eldora vm international,deltora sc international,85.1,REJECT
+ulvero vn imaging international,nexora vn imaging international,87.1,REJECT
+arvello vn imaging international,arvello uu imaging international,93.8,ACCEPT
+evorin vn imaging international,,,NO_MATCH
+wendora wn imaging international,nexora vn imaging international,88.9,REJECT
+cendrix wn materials international,braxen wn materials international,86.6,REJECT
+meroxa xn materials international,wendora xn materials international,89.6,REJECT
+nexora xn mobility international,nexora rs mobility international,93.8,ACCEPT
+yantara xn mobility international,,,NO_MATCH
+wendora yo networks international,wendora ul networks international,90.9,ACCEPT
+zentara yo packaging international,,,NO_MATCH
+avenor yo payments international,,,NO_MATCH
+braxen yo payments international,braxen wd payments international,93.8,ACCEPT
+ravelin zo pharma international,ravelin cz pharma international,90.3,ACCEPT
+falvera ao retail international,,,NO_MATCH
+meroxa ao retail international,iskora ao retail international,86.7,REJECT
+solvanta ap security international,,,NO_MATCH
+ravelin bp software international,jorvik bp software international,89.2,REJECT
+jorvik bp supply international,jorvik xm supply international,90.0,ACCEPT
+tarsen cp supply international,,,NO_MATCH
+solvanta cp therapeutics international,kelvanto cp therapeutics international,92.1,REJECT
+eldora dq transport international,,,NO_MATCH
+vantigo fq wellness international,,,NO_MATCH
+prysmar gr workspace international,prysmar ib workspace international,94.1,ACCEPT
+uldora gr workspace international,wendora hj workspace international,86.6,REJECT
+yorvex gr analytics,yorvex gi analytics,94.7,ACCEPT
+haverno gr analytics,,,NO_MATCH
+xylera hr biosystems,xylera oo biosystems,90.0,ACCEPT
+prysmar hr clinics,,,NO_MATCH
+wexforda hr clinics,wexforda hi clinics,94.7,ACCEPT
+wendora hr clinics,wendora jk clinics,88.9,ACCEPT
+avenor ir cloudworks,avenor yh cloudworks,90.0,ACCEPT
+glenvex is cloudworks,glenvex ur cloudworks sys,87.0,ACCEPT
+prysmar ks gridworks,prysmar pe gridworks,90.0,ACCEPT
+braxen lt logistics,,,NO_MATCH
+prysmar lt logistics,,,NO_MATCH
+jorvik mt mobility,jorvik pe mobility,88.9,ACCEPT
+tervano nt mobility,,,NO_MATCH
+helvar nt networks,,,NO_MATCH
+glenvex nu networks,glenvex od networks,89.5,ACCEPT
+avenor nu packaging,avenor mb packaging,89.5,ACCEPT
+avenor ou payments,avenor iz payments,88.9,ACCEPT
+tarsen ou payments,,,NO_MATCH
+cendrix ou payments,,,NO_MATCH
+zentara ou pharma,zentara np pharma,88.2,ACCEPT
+kestrelis qv security,kestrelis mf security,90.5,ACCEPT
+avenor qv software,,,NO_MATCH
+helvar qv software,,,NO_MATCH
+kestrelis qv software,kestrelis mf software,90.5,ACCEPT
+ravelin rv software,,,NO_MATCH
+ravelin sv therapeutics,ravelin ug therapeutics,87.0,ACCEPT
+falvera sw tools,falvera ga tools,87.5,ACCEPT
+meroxa vx wellness,,,NO_MATCH
+glenvex wx biosystems,glenvex qg biosystems,90.5,ACCEPT
+lorven wx biosystems,lorven wx biosys,88.9,ACCEPT
+arvello xx clinics,arvello eu clinics,88.9,ACCEPT
+meroxa xx clinics,meroxa tv clinics,88.2,ACCEPT
+ulvero xx cloudworks,ulvero qk cloudworks,85.0,ACCEPT
+iskora az,iskora ca,88.9,ACCEPT
+wendora bz logistics,wendora lk logistics,90.0,ACCEPT
+javora cz mobility,,,NO_MATCH
+dorsen ea pharma,dorsen fj pharma,87.5,ACCEPT
+ivanto ea pharma,ivanto fs pharma,87.5,ACCEPT
+rovian fb security,rovian kn security,88.9,ACCEPT
+yantara gb software,yantara la software,89.5,ACCEPT
+helvar gb supply,,,NO_MATCH
+calvion hb tools,calvion qd tools,87.5,ACCEPT
+lunaro hb tools,,,NO_MATCH
+nexora hb tools,,,NO_MATCH
+javora ic tools,javora as tools,86.7,ACCEPT
+ravelin ic training,ravelin ql training,89.5,ACCEPT
+uldora ic training,,,NO_MATCH
+mavrix jc ventures,,,NO_MATCH
+brinora jc ventures,brinora ku ventures,89.5,ACCEPT
+veltrix ld workspace,veltrix jl workspace,95.0,ACCEPT
+sorevia md biosystems,sorevia db biosystems,95.2,ACCEPT
+braxen ne diagnostics,braxen hm diagnostics,90.5,ACCEPT
+mavrix oe diagnostics,mavrix td diagnostics,90.5,ACCEPT
+tarsen oe foods,tarsen jj foods,86.7,ACCEPT
+praxon oe foods,praxon kb foods,86.7,ACCEPT
+novaris pe gridworks,novaris xo gridworks,90.0,ACCEPT
+orvanta pe,,,NO_MATCH
+helvar qf logistics,helvar pn logistics,89.5,ACCEPT
+veltrix rf logistics,veltrix mc logistics,90.0,ACCEPT
+zentara rf materials,zentara pe materials,90.0,ACCEPT
+prysmar rf mobility,,,NO_MATCH
+solvanta rf mobility,solvanta yx mobility,85.0,ACCEPT
+wendora sf mobility,wendora vm mobility,89.5,ACCEPT
+brinora sf networks,brinora rn networks,89.5,ACCEPT
+iskora tg payments,,,NO_MATCH
+yantara tg payments,,,NO_MATCH
+lunaro tg pharma,,,NO_MATCH
+jorvik ug robotics,jorvik to robotics,88.9,ACCEPT
+orvanta ug robotics,,,NO_MATCH
+tarsen ug robotics,,,NO_MATCH
+fintara vh security,,,NO_MATCH
+tarsen vh security,,,NO_MATCH
+lorven wh software,ravelin wh software,86.5,REJECT
+evorin wh supply,,,NO_MATCH
+avenor xh tools,,,NO_MATCH
+mavrix xi training,,,NO_MATCH
+avenor yi transport,avenor za transport,89.5,ACCEPT
+lunaro yi ventures,,,NO_MATCH
+sorevia zi warehousing,sorevia dp warehousing,86.4,ACCEPT
+ulvero ai wellness,ulvero po wellness,88.9,ACCEPT
+sorevia cj clinics,,,NO_MATCH
+lunaro dk components,,,NO_MATCH
+haverno fl imaging,haverno eb imaging,88.9,ACCEPT
+ravelin fl imaging,ravelin hq imaging,88.9,ACCEPT
+kelvanto gl logistics,kelvanto ui logistics,85.7,ACCEPT
+kestrelis gl materials,kestrelis ci materials,90.9,ACCEPT
+mavrix hl networks,mavrix bh networks,94.4,ACCEPT
+avenor im packaging,avenor mb packaging,94.7,ACCEPT
+quenvale im packaging,quenvale je packaging,90.5,ACCEPT
+wendora im packaging,,,NO_MATCH
+deltora km robotics,eldora mx robotics,86.5,REJECT
+mavrix kn security,,,NO_MATCH
+veltrix mn supply,veltrix qd supply,88.2,ACCEPT
+prysmar mn tools,prysmar hb tools,87.5,ACCEPT
+tarsen oo ventures,tarsen ob ventures,94.4,ACCEPT
+yorvex oo ventures,yorvex se ventures,88.9,ACCEPT
+kelvanto po warehousing,kelvanto tr warehousing,91.3,ACCEPT
+vantigo qp analytics labs,,,NO_MATCH
+praxon qp analytics labs,praxon sh analytics labs,91.7,ACCEPT
+eldora qp biosystems labs,helvar qp biosystems labs,88.0,REJECT
+tarsen rp biosystems labs,tarsen of biosystems labs,92.0,ACCEPT
+vantigo rp clinics labs,vantigo mu clinics labs,91.3,ACCEPT
+vantigo sp cloudworks labs,,,NO_MATCH
+yantara sq cloudworks labs,yantara lc cloudworks,85.1,ACCEPT
+jorvik sq diagnostics labs,jorvik qf diagnostics labs,96.2,ACCEPT
+lunaro tq diagnostics labs,novaris tq diagnostics labs,86.8,REJECT
+brinora vr imaging labs,brinora ty imaging labs,91.3,ACCEPT
+jorvik ys pharma labs,,,NO_MATCH
+prysmar ys pharma labs,prysmar at pharma sys,88.4,ACCEPT
+vantigo ys pharma labs,,,NO_MATCH
+lorven zs retail labs,,,NO_MATCH
+glenvex at software labs,,,NO_MATCH
+ivanto bt supply labs,ivanto zb supply labs,85.7,ACCEPT
+rovian bt supply labs,,,NO_MATCH
+qintara bt supply labs,,,NO_MATCH
+arvello du ventures labs,,,NO_MATCH
+tarsen fv workspace labs,,,NO_MATCH
+veltrix gv analytics solutions,veltrix cs analytics solutions,93.3,ACCEPT
+falvera gv biosystems solutions,falvera hn biosystems solutions,93.5,ACCEPT
+lorven gv biosystems solutions,ravelin jg biosystems solutions,88.5,REJECT
+kestrelis gv clinics solutions,kestrelis fd clinics solns,85.7,ACCEPT
+zentara hv clinics solutions,zentara cs clinics solutions,92.9,ACCEPT
+ostera hv cloudworks solutions,ostera jo cloudworks solns,85.7,ACCEPT
+galvex hw components solutions,galvex hw components solns,92.9,ACCEPT
+calvion iw diagnostics solutions,,,NO_MATCH
+quenvale iw diagnostics solutions,quenvale he diagnostics solns,87.1,ACCEPT
+yorvex jw foods solutions,yorvex jw foods solns,91.3,ACCEPT
+iskora jw foods solutions,iskora lg foods solutions,92.0,ACCEPT
+javora jw foods solutions,,,NO_MATCH
+meroxa jw foods solutions,meroxa jw foods solns,91.3,ACCEPT
+veltrix jw foods solutions,veltrix ft foods solutions,92.3,ACCEPT
+iskora kw solutions,iskora kw solns,88.2,ACCEPT
+wendora kw solutions,wendora oz solutions,90.0,ACCEPT
+evorin lx logistics solutions,evorin lx logistics solns,92.6,ACCEPT
+dorsen lx mobility solutions,,,NO_MATCH
+yorvex mx networks solutions,yorvex mx networks solns,92.3,ACCEPT
+glenvex mx networks solutions,falvera mx networks solutions,86.2,REJECT
+tervano ny packaging solutions,tarsen ny packaging solutions,88.1,REJECT
+prysmar ny payments solutions,,,NO_MATCH
+quenvale ny payments solutions,,,NO_MATCH
+uldora ny payments solutions,uldora mg payments solutions,92.9,ACCEPT
+tarsen oy pharma solutions,,,NO_MATCH
+vantigo oy pharma solutions,vantigo kv pharma solutions,92.6,ACCEPT
+ravelin oy retail solutions,ravelin mo retail solns,88.0,ACCEPT
+avenor rz therapeutics solutions,mavrix rz therapeutics solutions,90.6,REJECT
+evorin rz therapeutics solutions,mavrix rz therapeutics solutions,90.6,REJECT
+wexforda rz tools solutions,wexforda rz tools solns,92.0,ACCEPT
+calvion sz training solutions,calvion pp training solutions,89.7,ACCEPT
+arvello sa training solutions,arvello ox training solutions,93.1,ACCEPT
+mavrix sa transport solutions,mavrix qp transport solutions,93.1,ACCEPT
+prysmar sa transport solutions,prysmar ox transport solutions,90.0,ACCEPT
+qintara ta transport solutions,,,NO_MATCH
+xylera ta ventures solutions,,,NO_MATCH
+eldora ta warehousing solutions,eldora px warehousing solutions,90.3,ACCEPT
+arvello ta warehousing solutions,,,NO_MATCH
+kestrelis ub workspace solutions,kestrelis ub workspace solns,93.3,ACCEPT
+sorevia vb analytics systems,rovian vb analytics systems,90.9,REJECT
+yantara wb biosystems systems,,,NO_MATCH
+novaris wb clinics systems,,,NO_MATCH
+braxen wb cloudworks systems,braxen rg cloudworks systems,89.3,ACCEPT
+evorin xb cloudworks systems,evorin tz cloudworks systems,92.9,ACCEPT
+calvion xb components systems,,,NO_MATCH
+iskora xc components systems,iskora tz components systems,92.9,ACCEPT
+tervano yc diagnostics systems,wexforda yc diagnostics systems,85.2,REJECT
+kestrelis yc foods systems,,,NO_MATCH
+eldora zc systems,deltora zc systems,91.4,REJECT
+evorin ad imaging systems,brinora ad imaging systems,86.3,REJECT
+galvex ad logistics systems,galvex ef logistics systems,92.6,ACCEPT
+lunaro ad logistics systems,,,NO_MATCH
+yantara ad logistics systems,yantara ad logistics sys,92.3,ACCEPT
+avenor ad materials systems,avenor ad materials sys,92.0,ACCEPT
+haverno bd materials systems,,,NO_MATCH
+vantigo ce packaging systems,vantigo ce packaging sys,92.3,ACCEPT
+avenor ee retail systems,avenor fw retail systems,91.7,ACCEPT
+haverno ee robotics systems,,,NO_MATCH
+avenor fe security systems,haverno ip security systems,86.8,REJECT
+iskora ff security systems,,,NO_MATCH
+braxen ff software systems,braxen ff software sys,91.7,ACCEPT
+eldora ff software systems,eldora ff software sys,91.7,ACCEPT
+lorven gf supply systems,ravelin gf supply systems,89.8,REJECT
+solvanta ig ventures systems,solvanta dl ventures systems,92.9,ACCEPT
+brinora ig ventures systems,brinora nj ventures systems,92.6,ACCEPT
+ravelin jg warehousing systems,ravelin mr warehousing systems,93.3,ACCEPT
+wexforda kh workspace systems,,,NO_MATCH
+kestrelis lh biosystems technologies,,,NO_MATCH
+wexforda lh biosystems technologies,wexforda kp biosystems technologies,94.3,ACCEPT
+evorin lh biosystems technologies,haverno lh biosystems technologies,89.6,REJECT
+evorin mh clinics technologies,,,NO_MATCH
+brinora mh cloudworks technologies,brinora qk cloudworks technologies,94.1,ACCEPT
+wendora mh cloudworks technologies,wendora qk cloudworks technologies,94.1,ACCEPT
+helvar mh components technologies,lunaro mh components technologies,90.9,REJECT
+brinora ni components technologies,brinora if components technologies,97.1,ACCEPT
+ivanto ni foods technologies,,,NO_MATCH
+mavrix ni foods technologies,galvex ni foods technologies,89.3,REJECT
+glenvex oi foods technologies,galvex ni foods technologies,91.2,REJECT
+solvanta oi gridworks technologies,,,NO_MATCH
+ulvero oi gridworks technologies,ulvero pa gridworks technologies,93.8,ACCEPT
+javora oi gridworks technologies,javora oi gridworks tech,85.7,ACCEPT
+lunaro oi technologies,lunaro kg technologies,86.4,ACCEPT
+xylera pi technologies,,,NO_MATCH
+helvar pi imaging technologies,eldora pi imaging technologies,90.0,REJECT
+qintara pj imaging technologies,qintara rb imaging technologies,90.3,ACCEPT
+sorevia pj imaging technologies,jorvik st imaging technologies,85.2,REJECT
+kestrelis pj logistics technologies,,,NO_MATCH
+glenvex sk payments technologies,,,NO_MATCH
+sorevia tk pharma technologies,,,NO_MATCH
+uldora tk pharma technologies,,,NO_MATCH
+arvello tk retail technologies,arvello ph retail technologies,90.0,ACCEPT
+eldora uk robotics technologies,deltora uk robotics technologies,95.2,REJECT
+ulvero uk robotics technologies,,,NO_MATCH
+meroxa uk robotics technologies,deltora uk robotics technologies,88.9,REJECT
+falvera vl software technologies,falvera zn software technologies,93.8,ACCEPT
+uldora vl software technologies,wendora ut software technologies,85.7,REJECT
+jorvik wl tools technologies,sorevia zw tools technologies,87.7,REJECT
+orvanta wl tools technologies,orvanta sj tools technologies,89.7,ACCEPT
+ulvero wl tools technologies,ulvero vt tools technologies,92.9,ACCEPT
+dorsen xl training technologies,dorsen bo training technologies,90.3,ACCEPT
+jorvik xm transport technologies,jorvik bo transport technologies,90.6,ACCEPT
+braxen ym ventures technologies,ravelin ym ventures technologies,92.1,REJECT
+iskora ym ventures technologies,iskora vb ventures technologies,90.3,ACCEPT
+uldora ym ventures technologies,,,NO_MATCH
+sorevia zm warehousing technologies,sorevia bx warehousing technologies,91.4,ACCEPT
+yantara zm wellness technologies,,,NO_MATCH
+kestrelis zm workspace technologies,,,NO_MATCH
+iskora an workspace technologies,iskora cx workspace technologies,93.8,ACCEPT
+falvera bn biosystems services,,,NO_MATCH
+dorsen bn clinics services,,,NO_MATCH
+eldora cn components services,,,NO_MATCH
+zentara components services,zentara dg components services,94.7,ACCEPT
+lunaro diagnostics services,ivanto diagnostics services,85.2,REJECT
+vantigo diagnostics services,,,NO_MATCH
+avenor do foods services,braxen do foods services,87.5,REJECT
+quenvale eo services,quenvale be services,95.0,ACCEPT
+yorvex eo services,,,NO_MATCH
+calvion eo imaging services,,,NO_MATCH
+solvanta gp materials services,solvanta iz materials services,93.3,ACCEPT
+solvanta jq retail services,,,NO_MATCH
+novaris jq retail services,,,NO_MATCH
+meroxa jq robotics services,,,NO_MATCH
+evorin mr tools services,deltora mr tools services,85.7,REJECT
+kelvanto mr tools services,kelvanto nk tools services,92.3,ACCEPT
+lorven ns transport services,nexora ns transport services,85.7,REJECT
+yorvex ns ventures services,yorvex pk ventures services,92.6,ACCEPT
+tervano os ventures services,sorevia os ventures services,85.7,REJECT
+wexforda os warehousing services,,,NO_MATCH
+glenvex os wellness services,glenvex kq wellness services,92.9,ACCEPT
+wendora ps wellness services,,,NO_MATCH
+yantara ps wellness services,yantara na wellness services,92.9,ACCEPT
+helvar ps workspace services,helvar jx workspace services,92.9,ACCEPT
+ulvero pt analytics international,ulvero tv analytics international,97.0,ACCEPT
+novaris qt analytics international,,,NO_MATCH
+sorevia qt biosystems international,solvanta qt biosystems international,90.1,REJECT
+dorsen qt clinics international,,,NO_MATCH
+ravelin rt clinics international,,,NO_MATCH
+eldora rt cloudworks international,eldora vw cloudworks international,94.1,ACCEPT
+prysmar rt cloudworks international,prysmar ue cloudworks international,94.3,ACCEPT
+iskora rt cloudworks international,iskora qb cloudworks international,94.1,ACCEPT
+tervano rt cloudworks international,vantigo rt cloudworks international,91.4,REJECT
+vantigo rt components international,vantigo mz components international,94.3,ACCEPT
+arvello rt components international,,,NO_MATCH
+zentara su diagnostics international,,,NO_MATCH
+nexora su foods international,javora um foods international,86.2,REJECT
+kestrelis tu gridworks international,kestrelis pr gridworks international,94.4,ACCEPT
+veltrix tu gridworks international,ravelin pr gridworks international,85.3,REJECT
+braxen tu international,braxen pr international,91.3,ACCEPT
+mavrix tu international,,,NO_MATCH
+jorvik uu imaging international,jorvik yx imaging international,93.5,ACCEPT
+solvanta uv logistics international,solvanta qs logistics international,91.4,ACCEPT
+haverno vv logistics international,avenor uv logistics international,92.5,REJECT
+yantara wv mobility international,,,NO_MATCH
+braxen wv networks international,,,NO_MATCH
+yorvex wv networks international,yorvex ra networks international,93.8,ACCEPT
+sorevia wv networks international,,,NO_MATCH
+vantigo xv packaging international,vantigo ul packaging international,91.2,ACCEPT
+novaris xw payments international,,,NO_MATCH
+yantara xw payments international,zentara xw payments international,93.9,REJECT
+javora yw retail international,ravelin yw retail international,85.2,REJECT
+braxen zw security international,braxen tb security international,93.8,ACCEPT
+zentara zw security international,zentara vu security international,90.9,ACCEPT
+ostera ax software international,javora ax software international,90.6,REJECT
+ostera bx therapeutics international,tervano cp therapeutics international,87.7,REJECT
+ivanto cx training international,orvanta ei training international,86.2,REJECT
+praxon cy training international,,,NO_MATCH
+iskora cy transport international,,,NO_MATCH
+javora dy ventures international,tervano dy ventures international,86.2,REJECT
+xylera dy warehousing international,,,NO_MATCH
+nexora fz biosystems,nexora fz biosys,88.9,ACCEPT
+ostera gz biosystems,ostera bw biosystems,90.0,ACCEPT
+avenor gz cloudworks,avenor yh cloudworks,90.0,ACCEPT
+lorven hz cloudworks,ravelin hz cloudworks,87.8,REJECT
+tarsen ha diagnostics,tarsen hr diagnostics,95.2,ACCEPT
+xylera ha diagnostics,xylera fc diagnostics,90.5,ACCEPT
+novaris ia foods,novaris hv foods,87.5,ACCEPT
+veltrix ja gridworks,veltrix jn gridworks,95.0,ACCEPT
+helvar ja,,,NO_MATCH
+orvanta ja,,,NO_MATCH
+lunaro kb materials,lunaro ej materials,89.5,ACCEPT
+rovian kb materials,rovian ks materials,94.7,ACCEPT
+ravelin lb materials,ravelin ah materials,90.0,ACCEPT
+dorsen lb mobility,dorsen fg mobility,88.9,ACCEPT
+brinora nc payments,brinora da payments,89.5,ACCEPT
+arvello oc robotics,arvello qe robotics,89.5,ACCEPT
+lorven oc robotics,lorven nk robotics,88.9,ACCEPT
+ravelin oc robotics,,,NO_MATCH
+meroxa pd security,meroxa qv security,88.9,ACCEPT
+braxen pd supply,braxen ln supply,87.5,ACCEPT
+deltora qd therapeutics,deltora ma therapeutics,91.3,ACCEPT
+iskora rd tools,iskora km tools,86.7,ACCEPT
+qintara rd tools,,,NO_MATCH
+ravelin te warehousing,braxen te warehousing,88.4,REJECT
+mavrix te wellness,,,NO_MATCH
+haverno vf biosystems,haverno ia biosystems,90.5,ACCEPT
+uldora wf clinics,,,NO_MATCH
+prysmar wf components,,,NO_MATCH
+fintara xg diagnostics,fintara ij diagnostics,90.9,ACCEPT
+helvar xg diagnostics,helvar pw diagnostics,90.5,ACCEPT
+vantigo xg diagnostics,vantigo ij diagnostics,86.4,ACCEPT
+eldora xg foods,eldora td foods,86.7,ACCEPT
+yantara yg foods,,,NO_MATCH
+dorsen yg gridworks,dorsen kb gridworks,89.5,ACCEPT
+ravelin yg gridworks,ravelin df gridworks sys,86.4,ACCEPT
+nexora yg,,,NO_MATCH
+wendora zh imaging,,,NO_MATCH
+xylera zh logistics,,,NO_MATCH
+quenvale ah mobility,quenvale hy mobility,95.0,ACCEPT
+vantigo bh networks,vantigo fb networks,94.7,ACCEPT
+xylera ci payments,xylera dr payments,88.9,ACCEPT
+ivanto di robotics,,,NO_MATCH
+prysmar fj software,prysmar fs software,94.7,ACCEPT
+prysmar fj supply,,,NO_MATCH
+ivanto gj tools,,,NO_MATCH
+prysmar hj training,prysmar me training,89.5,ACCEPT
+veltrix hk transport,veltrix cp transport,90.0,ACCEPT
+xylera jk wellness,,,NO_MATCH
+wendora jk wellness,wendora aj wellness,94.7,ACCEPT
+evorin ll cloudworks,evorin nd cloudworks,90.0,ACCEPT
+falvera ll cloudworks,falvera lc cloudworks labs,89.4,ACCEPT
+yorvex ml components,yorvex vn components,90.0,ACCEPT
+evorin nm gridworks,evorin qx gridworks,89.5,ACCEPT
+fintara pn materials,fintara ft materials,85.0,ACCEPT
+glenvex so pharma,glenvex yj pharma,88.2,ACCEPT
+fintara to robotics,,,NO_MATCH
+sorevia to robotics,sorevia wz robotics,89.5,ACCEPT
+glenvex uo security,,,NO_MATCH
+galvex up software,,,NO_MATCH
+lunaro up software,lunaro yr software,88.9,ACCEPT
+orvanta up supply,,,NO_MATCH
+solvanta vp therapeutics,solvanta mn therapeutics,87.5,ACCEPT
+wendora vp therapeutics,wendora xh therapeutics,87.0,ACCEPT
+ivanto wq transport,,,NO_MATCH
+arvello xq ventures,,,NO_MATCH
+falvera zq workspace,falvera ok workspace,85.0,ACCEPT
+glenvex zq workspace,glenvex yh workspace,90.0,ACCEPT
+wexforda zr analytics,wexforda aa analytics,85.7,ACCEPT
+tarsen ar biosystems,lorven ar biosystems,85.0,REJECT
+zentara ar biosystems,,,NO_MATCH
+wendora br clinics,,,NO_MATCH
+meroxa br components,meroxa ep components,85.0,ACCEPT
+fintara cs diagnostics,fintara bi diagnostics,90.9,ACCEPT
+fintara es imaging,fintara ca imaging,88.9,ACCEPT
+fintara et logistics,fintara dj logistics,90.0,ACCEPT
+quenvale gt networks,quenvale kj networks,90.0,ACCEPT
+lunaro gt packaging,lunaro iz packaging,89.5,ACCEPT
+kelvanto hu payments,kelvanto ou payments,85.0,ACCEPT
+ostera iu pharma,ostera np pharma,87.5,ACCEPT
+zentara iu retail,zentara oc retail,88.2,ACCEPT
+calvion ju software,calvion ji software,94.7,ACCEPT
+rovian lv tools,rovian ot tools,86.7,ACCEPT
+evorin mv training,evorin no training,88.9,ACCEPT
+ostera mv training,ostera mi training sys,85.0,ACCEPT
+prysmar mw transport,prysmar mj transport,95.0,ACCEPT
+xylera ow wellness,,,NO_MATCH
+vantigo qx cloudworks labs,solvanta qx cloudworks labs,86.8,REJECT
+glenvex rx components labs,glenvex on components labs,92.3,ACCEPT
+javora rx components labs,deltora rx components labs,86.3,REJECT
+yorvex ry diagnostics labs,,,NO_MATCH
+yorvex sy foods labs,,,NO_MATCH
+arvello sy foods labs,,,NO_MATCH
+braxen sy gridworks labs,,,NO_MATCH
+yantara vz materials labs,,,NO_MATCH
+quenvale vz networks labs,quenvale yk networks labs,92.0,ACCEPT
+haverno wz packaging labs,,,NO_MATCH
+galvex wz payments labs,,,NO_MATCH
+qintara ya robotics labs,,,NO_MATCH
+ravelin ya robotics labs,ravelin as robotics labs,87.5,ACCEPT
+sorevia zb software labs,,,NO_MATCH
+ulvero bb tools labs,,,NO_MATCH
+iskora bb tools labs,,,NO_MATCH
+tarsen bb training labs,lorven bb training labs,87.0,REJECT
+helvar cc warehousing labs,helvar hs warehousing,85.1,ACCEPT
+eldora ec analytics solutions,deltora bs analytics solutions,88.1,REJECT
+quenvale ed analytics solutions,quenvale kx analytics solns,86.2,ACCEPT
+deltora fd biosystems solutions,evorin jf biosystems solutions,85.2,REJECT
+brinora gd cloudworks solutions,,,NO_MATCH
+dorsen hd diagnostics solutions,,,NO_MATCH
+vantigo he diagnostics solutions,vantigo lg diagnostics solns,86.7,ACCEPT
+lorven he diagnostics solutions,galvex et diagnostics solutions,87.1,REJECT
+calvion he foods solutions,,,NO_MATCH
+tervano ie gridworks solutions,,,NO_MATCH
+avenor ie solutions,,,NO_MATCH
+mavrix ie solutions,mavrix hm solutions,89.5,ACCEPT
+prysmar je imaging solutions,prysmar je imaging solns,92.3,ACCEPT
+evorin je imaging solutions,dorsen je imaging solutions,88.9,REJECT
+uldora je imaging solutions,uldora je imaging solns,92.0,ACCEPT
+vantigo jf logistics solutions,,,NO_MATCH
+quenvale kf mobility solutions,,,NO_MATCH
+vantigo kf mobility solutions,,,NO_MATCH
+haverno kf mobility solutions,haverno kf mobility solns,92.6,ACCEPT
+jorvik ng robotics solutions,jorvik qr robotics solutions,92.9,ACCEPT
+orvanta ng robotics solutions,orvanta mo robotics solutions,93.1,ACCEPT
+uldora og robotics solutions,uldora py robotics solutions,92.9,ACCEPT
+lunaro og software solutions,lunaro og software solns,92.3,ACCEPT
+prysmar og software solutions,prysmar no software solutions,96.6,ACCEPT
+orvanta ph supply solutions,orvanta ph supply solns,92.0,ACCEPT
+braxen qh training solutions,,,NO_MATCH
+jorvik qh training solutions,evorin rh training solutions,85.7,REJECT
+qintara rh training solutions,fintara sz training solutions,86.2,REJECT
+cendrix ri transport solutions,cendrix ri transport solns,92.9,ACCEPT
+prysmar si warehousing solutions,prysmar rq warehousing solns,86.7,ACCEPT
+jorvik ti workspace solutions,,,NO_MATCH
+kestrelis ti workspace solutions,kestrelis ub workspace solns,86.7,ACCEPT
+meroxa uj analytics systems,meroxa uj analytics sys,92.0,ACCEPT
+yantara uj analytics systems,yantara uj analytics sys,92.3,ACCEPT
+arvello uj biosystems systems,,,NO_MATCH
+cendrix uj biosystems systems,mavrix uj biosystems systems,87.7,REJECT
+javora vj clinics systems,javora vj clinics sys,91.3,ACCEPT
+helvar wj diagnostics systems,helvar wj diagnostics sys,92.6,ACCEPT
+lunaro wj diagnostics systems,,,NO_MATCH
+calvion wk foods systems,calvion zu foods systems,91.7,ACCEPT
+eldora xk foods systems,eldora uz foods systems,91.3,ACCEPT
+praxon xk gridworks systems,,,NO_MATCH
+kelvanto yk systems,,,NO_MATCH
+eldora yk imaging systems,eldora yk imaging sys,91.3,ACCEPT
+kelvanto yk imaging systems,kelvanto wa imaging systems,92.6,ACCEPT
+uldora yk imaging systems,,,NO_MATCH
+kestrelis zk logistics systems,,,NO_MATCH
+deltora al mobility systems,deltora al mobility sys,92.0,ACCEPT
+ulvero al networks systems,ulvero al networks sys,91.7,ACCEPT
+jorvik bl packaging systems,jorvik xj packaging systems,88.9,ACCEPT
+brinora bl packaging systems,brinora bl packaging sys,92.3,ACCEPT
+ostera bl packaging systems,ostera bl packaging sys,92.0,ACCEPT
+kestrelis bl payments systems,kestrelis hg payments systems,93.1,ACCEPT
+mavrix bl payments systems,,,NO_MATCH
+brinora bm payments systems,brinora bm payments sys,92.0,ACCEPT
+sorevia cm payments systems,,,NO_MATCH
+kestrelis cm pharma systems,kestrelis cm pharma sys,92.0,ACCEPT
+meroxa cm pharma systems,meroxa cm pharma sys,90.9,ACCEPT
+galvex cm retail systems,,,NO_MATCH
+javora dm robotics systems,,,NO_MATCH
+yorvex dm security systems,yorvex dm security sys,91.7,ACCEPT
+ostera en software systems,ostera en software sys,91.7,ACCEPT
+tarsen en supply systems,,,NO_MATCH
+brinora en supply systems,,,NO_MATCH
+evorin fn supply systems,evorin fn supply sys,90.9,ACCEPT
+cendrix gn tools systems,evorin gn tools systems,85.1,REJECT
+qintara gn tools systems,qintara iy tools systems,91.7,ACCEPT
+tarsen gn training systems,tarsen gn training sys,91.7,ACCEPT
+novaris ho transport systems,novaris ho transport sys,92.3,ACCEPT
+prysmar ho ventures systems,prysmar gv ventures systems,92.6,ACCEPT
+rovian ho ventures systems,,,NO_MATCH
+dorsen ho warehousing systems,dorsen ho warehousing sys,92.6,ACCEPT
+ulvero io warehousing systems,ulvero gw warehousing systems,93.1,ACCEPT
+orvanta io wellness systems,rovian io wellness systems,90.6,REJECT
+vantigo io wellness systems,vantigo io wellness sys,92.0,ACCEPT
+yorvex io wellness systems,,,NO_MATCH
+praxon jo workspace systems,lorven jo workspace systems,85.2,REJECT
+quenvale kp biosystems technologies,quenvale he biosystems technologies,94.3,ACCEPT
+tarsen kp biosystems technologies,ostera kp biosystems technologies,87.9,REJECT
+evorin kp biosystems technologies,,,NO_MATCH
+vantigo mp diagnostics technologies,yantara mq diagnostics technologies,85.7,REJECT
+wendora mq diagnostics technologies,yantara mq diagnostics technologies,88.6,REJECT
+prysmar mq foods technologies,prysmar jf foods technologies,93.1,ACCEPT
+quenvale nq technologies,quenvale oq imaging technologies,85.7,ACCEPT
+evorin nq technologies,,,NO_MATCH
+uldora nq technologies,wendora nq technologies,88.9,REJECT
+prysmar oq imaging technologies,,,NO_MATCH
+calvion oq logistics technologies,,,NO_MATCH
+calvion rr payments technologies,calvion vu payments technologies,90.6,ACCEPT
+arvello rr payments technologies,dorsen rr payments technologies,85.7,REJECT
+javora rs payments technologies,,,NO_MATCH
+ostera ss pharma technologies,,,NO_MATCH
+kelvanto ss retail technologies,deltora ss retail technologies,88.5,REJECT
+jorvik ss robotics technologies,orvanta ss robotics technologies,88.9,REJECT
+avenor ts security technologies,haverno xv security technologies,88.9,REJECT
+rovian ts security technologies,ravelin xv security technologies,85.7,REJECT
+brinora ts security technologies,brinora ts security tech,85.7,ACCEPT
+falvera ut supply technologies,,,NO_MATCH
+meroxa vt therapeutics technologies,cendrix ut therapeutics technologies,87.3,REJECT
+ravelin vt therapeutics technologies,ravelin rq therapeutics technologies,91.7,ACCEPT
+dorsen vt training technologies,dorsen bo training technologies,90.3,ACCEPT
+eldora vt training technologies,eldora ub training technologies,93.5,ACCEPT
+orvanta vt training technologies,solvanta vt training technologies,95.4,REJECT
+falvera wt training technologies,fintara zw training technologies,87.5,REJECT
+mavrix wu ventures technologies,prysmar wu ventures technologies,88.9,REJECT
+tarsen wu ventures technologies,prysmar wu ventures technologies,85.7,REJECT
+wexforda yu workspace technologies,wexforda yu workspace tech,86.7,ACCEPT
+ostera zv biosystems services,,,NO_MATCH
+uldora zv biosystems services,uldora zv biosys services,92.6,ACCEPT
+yantara zv biosystems services,xylera zv biosystems services,88.1,REJECT
+ostera av clinics services,ostera ws clinics services,88.5,ACCEPT
+solvanta av cloudworks services,solvanta xl cloudworks services,90.3,ACCEPT
+wendora dw services,,,NO_MATCH
+fintara ew logistics services,fintara fp logistics services,89.7,ACCEPT
+rovian ew logistics services,,,NO_MATCH
+tarsen fx mobility services,,,NO_MATCH
+galvex fx networks services,glenvex fx networks services,94.5,REJECT
+lorven fx networks services,glenvex fx networks services,87.3,REJECT
+falvera gx payments services,falvera en payments services,89.3,ACCEPT
+zentara hy pharma services,,,NO_MATCH
+solvanta hy retail services,,,NO_MATCH
+orvanta iy robotics services,,,NO_MATCH
+xylera iy robotics services,xylera fo robotics services,92.6,ACCEPT
+meroxa iy security services,,,NO_MATCH
+mavrix jy software services,mavrix lj software services,96.3,ACCEPT
+tervano jz software services,sorevia jz software services,85.7,REJECT
+meroxa kz supply services,ostera kz supply services,88.0,REJECT
+novaris kz supply services,,,NO_MATCH
+arvello kz therapeutics services,,,NO_MATCH
+braxen lz transport services,eldora lz transport services,85.7,REJECT
+mavrix lz transport services,mavrix ru transport services,89.3,ACCEPT
+helvar na workspace services,helvar jx workspace services,92.9,ACCEPT
+evorin oa analytics international,evorin or diagnostics international,85.3,REJECT
+meroxa ob analytics international,meroxa ky analytics international,90.9,ACCEPT
+eldora ob biosystems international,dorsen ob biosystems international,91.2,REJECT
+lorven pb clinics international,ostera pb clinics international,87.1,REJECT
+lunaro pb cloudworks international,,,NO_MATCH
+iskora qb components international,iskora mz components international,94.1,ACCEPT
+kestrelis qb diagnostics international,kestrelis qb diagnostics intl,86.6,ACCEPT
+tarsen rb diagnostics international,,,NO_MATCH
+xylera sc international,,,NO_MATCH
+praxon sc international,,,NO_MATCH
+sorevia sc international,,,NO_MATCH
+vantigo tc logistics international,,,NO_MATCH
+lunaro ud mobility international,,,NO_MATCH
+vantigo ud mobility international,,,NO_MATCH
+sorevia ud mobility international,,,NO_MATCH
+veltrix ud mobility international,,,NO_MATCH
+lunaro vd networks international,,,NO_MATCH
+rovian wd payments international,rovian ul payments international,93.8,ACCEPT
+iskora wd payments international,iskora zo payments international,93.8,ACCEPT
+orvanta we pharma international,jorvik we pharma international,88.5,REJECT
+vantigo we pharma international,,,NO_MATCH
+javora we pharma international,jorvik we pharma international,90.0,REJECT
+yantara xe retail international,,,NO_MATCH
+praxon xe robotics international,meroxa xe robotics international,87.5,REJECT
+lunaro zf therapeutics international,,,NO_MATCH
+solvanta zf therapeutics international,orvanta vc therapeutics international,90.7,REJECT
+mavrix af tools international,meroxa af tools international,89.7,REJECT
+zentara bg ventures international,zentara hb ventures international,97.0,ACCEPT
+brinora bg ventures international,brinora hb ventures international,90.9,ACCEPT
+braxen cg wellness international,avenor gj wellness international,87.5,REJECT
+nexora cg wellness international,nexora ey wellness international,93.8,ACCEPT
+praxon dg wellness international,,,NO_MATCH
+iskora dg workspace international,sorevia aw workspace international,86.6,REJECT
+arvello gh components,arvello yy components,90.5,ACCEPT
+tervano gh components,tervano vn components,85.7,ACCEPT
+lunaro hi gridworks,,,NO_MATCH
+vantigo ii imaging,vantigo ca imaging,88.9,ACCEPT
+arvello jj materials,arvello fc materials,90.0,ACCEPT
+lunaro kj mobility,lunaro gc mobility,88.9,ACCEPT
+yantara kj mobility,yantara hy mobility,89.5,ACCEPT
+fintara lj packaging,fintara jr packaging,95.0,ACCEPT
+praxon mk pharma,,,NO_MATCH
+avenor mk retail,avenor di retail,87.5,ACCEPT
+ivanto nk security,ivanto jh security,88.9,ACCEPT
+arvello ql transport,arvello cl transport sys,86.4,ACCEPT
+tarsen rm ventures,tarsen jt ventures,88.9,ACCEPT
+yorvex rm ventures,yorvex se ventures,88.9,ACCEPT
+avenor sm wellness,avenor of wellness,88.9,ACCEPT
+quenvale sm workspace,,,NO_MATCH
+evorin tm analytics,,,NO_MATCH
+calvion un cloudworks,,,NO_MATCH
+galvex vn components,galvex rk components,90.0,ACCEPT
+haverno vn components,tervano vn components,85.7,REJECT
+yorvex xo gridworks,yorvex sl gridworks,89.5,ACCEPT
+lunaro xo,,,NO_MATCH
+kelvanto xo,kelvanto om,90.9,ACCEPT
+praxon xo,,,NO_MATCH
+brinora zp materials,brinora jw materials,85.0,ACCEPT
+arvello zp mobility,arvello rf mobility,89.5,ACCEPT
+nexora ap networks,nexora ay networks,94.4,ACCEPT
+sorevia ap networks,sorevia gt networks,89.5,ACCEPT
+ivanto cq retail,,,NO_MATCH
+wendora cq retail,wendora oc retail,94.1,ACCEPT
+vantigo dq security,,,NO_MATCH
+orvanta dq software,orvanta ki software,89.5,ACCEPT
+qintara dq software,qintara ok software,89.5,ACCEPT
+ivanto er supply,,,NO_MATCH
+wexforda fr training,wexforda ql training,90.0,ACCEPT
+evorin fr training,evorin no training,88.9,ACCEPT
+wendora gr transport,wendora dh transport,90.0,ACCEPT
+fintara gs ventures,fintara ig ventures sys,90.5,ACCEPT
+rovian hs warehousing,rovian lu warehousing,90.5,ACCEPT
+xylera hs warehousing,xylera ib warehousing,90.5,ACCEPT
+kestrelis is analytics,kestrelis lq analytics intl,85.7,ACCEPT
+evorin jt biosystems,evorin fz biosystems,90.0,ACCEPT
+lorven jt biosystems,lorven eh biosystems,90.0,ACCEPT
+tervano kt cloudworks,tervano hz cloudworks,90.5,ACCEPT
+kestrelis kt components,,,NO_MATCH
+solvanta kt components,solvanta qb components intl,85.7,ACCEPT
+veltrix mu gridworks,veltrix jn gridworks,90.0,ACCEPT
+orvanta nu imaging,orvanta nd imaging,94.4,ACCEPT
+zentara nu imaging,zentara iv imaging,88.9,ACCEPT
+iskora pv mobility,,,NO_MATCH
+sorevia pv networks,sorevia nl networks,89.5,ACCEPT
+wendora rw retail,,,NO_MATCH
+sorevia sw robotics,sorevia wz robotics,94.7,ACCEPT
+ulvero sw security,ulvero zk security sys,85.0,ACCEPT
+brinora ux tools,,,NO_MATCH
+lorven vx transport,lorven uf transport,89.5,ACCEPT
+mavrix wy ventures,,,NO_MATCH
+avenor wy warehousing,evorin wy warehousing,85.7,REJECT
+braxen xy wellness,praxon xy wellness,88.9,REJECT
+yantara xy wellness,,,NO_MATCH
+avenor yy analytics,avenor dt analytics,89.5,ACCEPT
+dorsen zz clinics,dorsen vf clinics,88.2,ACCEPT
+helvar zz clinics,helvar po clinics,88.2,ACCEPT
+deltora zz cloudworks,deltora yh cloudworks,90.5,ACCEPT
+lorven az cloudworks,,,NO_MATCH
+dorsen az components,dorsen jk components,85.0,ACCEPT
+calvion az diagnostics,calvion qo diagnostics,86.4,ACCEPT
+kelvanto ba foods,,,NO_MATCH
+yantara ba foods,yantara ek foods,87.5,ACCEPT
+xylera da imaging,,,NO_MATCH
+rovian da logistics,,,NO_MATCH
+uldora da logistics,,,NO_MATCH
+qintara eb materials,,,NO_MATCH
+arvello fb networks,arvello kw networks,89.5,ACCEPT
+ulvero fb packaging,ulvero da packaging,89.5,ACCEPT
+kelvanto fb packaging,kelvanto zx packaging,85.7,ACCEPT
+ulvero gb payments,ulvero ci payments,88.9,ACCEPT
+tarsen gc pharma,,,NO_MATCH
+yantara hc retail,yantara mx retail,88.2,ACCEPT
+sorevia ic software,sorevia ok software,89.5,ACCEPT
+jorvik jc supply,jorvik gb supply,87.5,ACCEPT
+zentara jd supply,zentara ln supply,88.2,ACCEPT
+eldora jd therapeutics,eldora it therapeutics,90.9,ACCEPT
+iskora jd therapeutics,iskora pl therapeutics,90.9,ACCEPT
+deltora kd tools,,,NO_MATCH
+evorin kd training,evorin no training,88.9,ACCEPT
+deltora ld transport,deltora lq transport sys,86.4,ACCEPT
+sorevia ld transport,sorevia rl transport,95.0,ACCEPT
+helvar me warehousing,helvar nj warehousing,90.5,ACCEPT
+quenvale me warehousing,,,NO_MATCH
+sorevia me warehousing,sorevia dp warehousing,90.9,ACCEPT
+calvion me wellness,,,NO_MATCH
+ivanto ne analytics labs,,,NO_MATCH
+solvanta ne analytics labs,solvanta mm analytics labs,92.3,ACCEPT
+meroxa of biosystems labs,meroxa sh biosystems labs,92.0,ACCEPT
+ulvero of clinics labs,ulvero ua clinics labs,90.9,ACCEPT
+iskora rg foods labs,,,NO_MATCH
+helvar rg labs,,,NO_MATCH
+yantara sg labs,yantara od labs,86.7,ACCEPT
+prysmar sg logistics labs,,,NO_MATCH
+evorin uh networks labs,evorin xr networks labs,91.3,ACCEPT
+mavrix uh packaging labs,,,NO_MATCH
+haverno vh packaging labs,,,NO_MATCH
+falvera vh payments labs,,,NO_MATCH
+ulvero wi pharma labs,,,NO_MATCH
+quenvale xi robotics labs,quenvale ya robotics labs,92.0,ACCEPT
+sorevia xi security labs,sorevia za security labs,91.7,ACCEPT
+nexora yi software labs,,,NO_MATCH
+solvanta yi supply labs,,,NO_MATCH
+avenor yj therapeutics labs,,,NO_MATCH
+prysmar zj therapeutics labs,,,NO_MATCH
+quenvale zj therapeutics labs,quenvale hb therapeutics,86.8,ACCEPT
+ulvero zj tools labs,,,NO_MATCH
+solvanta aj training labs,orvanta aj training labs,93.9,REJECT
+zentara ck wellness labs,zentara hf wellness labs,91.7,ACCEPT
+eldora el clinics solutions,,,NO_MATCH
+praxon fl cloudworks solutions,,,NO_MATCH
+deltora fl components solutions,deltora jo components solutions,93.5,ACCEPT
+ravelin gl diagnostics solutions,ravelin mz diagnostics solns,86.7,ACCEPT
+vantigo gl foods solutions,,,NO_MATCH
+iskora gm foods solutions,iskora gm foods solns,91.3,ACCEPT
+javora gm foods solutions,,,NO_MATCH
+calvion gm gridworks solutions,calvion gm gridworks solns,92.9,ACCEPT
+xylera gm gridworks solutions,,,NO_MATCH
+zentara gm gridworks solutions,zentara gm gridworks solns,92.9,ACCEPT
+avenor hm imaging solutions,haverno im imaging solutions,90.9,REJECT
+ivanto hm imaging solutions,ivanto fc imaging solutions,92.6,ACCEPT
+wexforda im logistics solutions,,,NO_MATCH
+ravelin im logistics solutions,ravelin kf logistics solutions,93.3,ACCEPT
+galvex im materials solutions,calvion im materials solutions,88.1,REJECT
+quenvale im materials solutions,,,NO_MATCH
+avenor jn networks solutions,ivanto jn networks solutions,89.3,REJECT
+mavrix jn networks solutions,mavrix jn networks solns,92.3,ACCEPT
+haverno kn networks solutions,,,NO_MATCH
+iskora kn networks solutions,iskora mx networks solutions,92.9,ACCEPT
+wendora kn networks solutions,,,NO_MATCH
+quenvale kn packaging solutions,quenvale kn packaging solns,93.1,ACCEPT
+ulvero ln pharma solutions,ulvero ln pharma solns,91.7,ACCEPT
+avenor no supply solutions,avenor no supply solns,91.7,ACCEPT
+braxen no supply solutions,,,NO_MATCH
+ostera op supply solutions,ostera op supply solns,91.7,ACCEPT
+wexforda op therapeutics solutions,wexforda op therapeutics solns,93.8,ACCEPT
+jorvik pp training solutions,,,NO_MATCH
+rovian pp training solutions,rovian wc training solutions,89.3,ACCEPT
+ravelin pp training solutions,ravelin pp training solns,92.6,ACCEPT
+glenvex qq ventures solutions,glenvex qq ventures solns,92.6,ACCEPT
+dorsen rq warehousing solutions,dorsen rq warehousing solns,93.1,ACCEPT
+cendrix sq workspace solutions,cendrix wt workspace solutions,90.0,ACCEPT
+veltrix sq workspace solutions,veltrix sq workspace solns,92.9,ACCEPT
+eldora tq biosystems systems,,,NO_MATCH
+ravelin tr biosystems systems,rovian xt biosystems systems,87.7,REJECT
+qintara tr clinics systems,qintara tr clinics sys,91.7,ACCEPT
+uldora vr components systems,uldora vr components sys,92.3,ACCEPT
+kestrelis vr foods systems,,,NO_MATCH
+fintara ws gridworks systems,fintara bn gridworks systems,89.3,ACCEPT
+arvello xs imaging systems,arvello xs imaging sys,91.7,ACCEPT
+meroxa xs imaging systems,meroxa yk imaging systems,92.0,ACCEPT
+mavrix xs logistics systems,mavrix xs logistics sys,92.0,ACCEPT
+prysmar ys materials systems,prysmar ys materials sys,92.3,ACCEPT
+arvello ys materials systems,arvello ys materials sys,92.3,ACCEPT
+galvex yt mobility systems,galvex yt mobility sys,91.7,ACCEPT
+helvar yt mobility systems,,,NO_MATCH
+qintara zt mobility systems,qintara zt mobility sys,92.0,ACCEPT
+evorin zt networks systems,evorin zt networks sys,91.7,ACCEPT
+ravelin at packaging systems,ravelin at packaging sys,92.3,ACCEPT
+ivanto at payments systems,ivanto at payments sys,91.7,ACCEPT
+tarsen at payments systems,tarsen hg payments systems,92.3,ACCEPT
+ravelin bu pharma systems,ravelin bu pharma sys,91.3,ACCEPT
+braxen bu robotics systems,,,NO_MATCH
+tervano du software systems,ulvero du software systems,86.8,REJECT
+braxen du supply systems,,,NO_MATCH
+ivanto du supply systems,ivanto ip supply systems,91.7,ACCEPT
+ulvero du supply systems,,,NO_MATCH
+calvion ev tools systems,calvion li tools systems,91.7,ACCEPT
+eldora ev tools systems,,,NO_MATCH
+brinora ev tools systems,brinora bk tools systems,87.5,ACCEPT
+veltrix gw warehousing systems,veltrix gw warehousing sys,92.9,ACCEPT
+galvex hw wellness systems,haverno hw wellness systems,86.8,REJECT
+rovian hw wellness systems,rovian io wellness systems,92.3,ACCEPT
+rovian hw workspace systems,ravelin kh workspace systems,87.3,REJECT
+yorvex hw workspace systems,yorvex em workspace systems,92.6,ACCEPT
+helvar jx clinics technologies,ivanto jx clinics technologies,86.7,REJECT
+xylera jx clinics technologies,xylera nz clinics technologies,93.3,ACCEPT
+novaris jx cloudworks technologies,sorevia jx cloudworks technologies,88.2,REJECT
+braxen kx diagnostics technologies,,,NO_MATCH
+glenvex kx diagnostics technologies,glenvex ni diagnostics technologies,94.3,ACCEPT
+kestrelis lx foods technologies,kestrelis rl foods technologies,96.8,ACCEPT
+brinora ly gridworks technologies,brinora ly gridworks tech,86.2,ACCEPT
+novaris ly gridworks technologies,novaris rt gridworks technologies,90.9,ACCEPT
+deltora my imaging technologies,eldora pi imaging technologies,88.5,REJECT
+braxen ny logistics technologies,avenor ny logistics technologies,90.6,REJECT
+javora oy materials technologies,javora lo materials technologies,90.6,ACCEPT
+uldora oz materials technologies,uldora pr materials technologies,93.8,ACCEPT
+ulvero oz mobility technologies,ulvero oz mobility tech,85.2,ACCEPT
+ravelin oz mobility technologies,,,NO_MATCH
+xylera oz networks technologies,xylera oz networks tech,85.2,ACCEPT
+cendrix pz packaging technologies,cendrix pz packaging tech,86.2,ACCEPT
+nexora pz payments technologies,braxen pz payments technologies,87.1,REJECT
+falvera qz payments technologies,falvera oh payments technologies,90.6,ACCEPT
+arvello sa security technologies,meroxa sa security technologies,85.7,REJECT
+glenvex sa security technologies,meroxa sa security technologies,85.7,REJECT
+jorvik sa software technologies,lorven sa software technologies,90.3,REJECT
+ivanto tb therapeutics technologies,,,NO_MATCH
+galvex tb tools technologies,,,NO_MATCH
+braxen ub training technologies,javora ub training technologies,87.1,REJECT
+solvanta ub training technologies,solvanta vt training technologies,93.9,ACCEPT
+tarsen vb transport technologies,tarsen vb transport tech,85.7,ACCEPT
+haverno vb ventures technologies,avenor cp ventures technologies,85.7,REJECT
+javora wc wellness technologies,javora dp wellness technologies,90.3,ACCEPT
+deltora xc workspace technologies,deltora xc workspace tech,86.2,ACCEPT
+ostera xc workspace technologies,,,NO_MATCH
+rovian yc biosystems services,ivanto yc biosystems services,89.7,REJECT
+tarsen yd clinics services,tarsen cf clinics services,88.5,ACCEPT
+novaris yd clinics services,novaris av clinics services,88.9,ACCEPT
+iskora zd components services,orvanta zd components services,88.1,REJECT
+vantigo ad diagnostics services,,,NO_MATCH
+wexforda ad diagnostics services,,,NO_MATCH
+solvanta ad foods services,,,NO_MATCH
+tarsen ad foods services,,,NO_MATCH
+braxen ce logistics services,,,NO_MATCH
+calvion de materials services,,,NO_MATCH
+haverno df mobility services,,,NO_MATCH
+meroxa ef mobility services,,,NO_MATCH
+novaris ff packaging services,novaris cv packaging services,93.1,ACCEPT
+ivanto hg software services,,,NO_MATCH
+glenvex ig software services,galvex lj software services,87.3,REJECT
+kestrelis ig supply services,,,NO_MATCH
+cendrix ig supply services,,,NO_MATCH
+iskora jh tools services,,,NO_MATCH
+avenor jh training services,avenor pc training services,92.6,ACCEPT
+uldora kh training services,,,NO_MATCH
+solvanta lh ventures services,,,NO_MATCH
+arvello li warehousing services,avenor pk warehousing services,85.2,REJECT
+lorven li warehousing services,orvanta ix warehousing services,88.5,REJECT
+lunaro li wellness services,,,NO_MATCH
+novaris mi wellness services,,,NO_MATCH
+mavrix mi workspace services,mavrix jx workspace services,89.3,ACCEPT
+yorvex pj components international,,,NO_MATCH
+praxon pj components international,praxon ww components international,91.2,ACCEPT
+praxon pj diagnostics international,praxon pj diagnostics intl,85.2,ACCEPT
+ulvero qj foods international,veltrix qj foods international,88.1,REJECT
+tervano qj foods international,,,NO_MATCH
+ivanto rk international,,,NO_MATCH
+zentara rk international,,,NO_MATCH
+brinora rk international,,,NO_MATCH
+sorevia rk international,,,NO_MATCH
+deltora sk logistics international,helvar sk logistics international,89.6,REJECT
+ulvero tl mobility international,,,NO_MATCH
+vantigo tl mobility international,,,NO_MATCH
+praxon ul networks international,praxon vd networks international,93.8,ACCEPT
+haverno ul packaging international,avenor ra packaging international,89.6,REJECT
+arvello vl pharma international,,,NO_MATCH
+praxon vl pharma international,,,NO_MATCH
+lunaro vm retail international,novaris wm retail international,85.2,REJECT
+quenvale vm retail international,,,NO_MATCH
+deltora vm retail international,helvar vm retail international,88.5,REJECT
+fintara wm robotics international,fintara wn logistics international,86.6,REJECT
+qintara wm robotics international,,,NO_MATCH
+cendrix wm security international,,,NO_MATCH
+prysmar xm software international,,,NO_MATCH
+quenvale xm supply international,,,NO_MATCH
+ravelin zn training international,,,NO_MATCH
+rovian zn transport international,,,NO_MATCH
+eldora ao warehousing international,deltora bo warehousing international,93.0,REJECT
+ivanto ao warehousing international,vantigo bo warehousing international,93.0,REJECT
+ivanto bo workspace international,kelvanto gr workspace international,88.2,REJECT
+sorevia workspace international,sorevia aw workspace international,95.4,ACCEPT
+galvex dp clinics,,,NO_MATCH
+quenvale ep components,quenvale kk components,90.9,ACCEPT
+meroxa fp foods,meroxa hi foods,86.7,ACCEPT
+wendora fp foods,,,NO_MATCH
+haverno gq gridworks,haverno th gridworks,85.0,ACCEPT
+javora gq gridworks,javora df gridworks,89.5,ACCEPT
+novaris gq gridworks,novaris eb gridworks,90.0,ACCEPT
+praxon gq gridworks,praxon br gridworks,89.5,ACCEPT
+avenor gq,,,NO_MATCH
+avenor hq logistics,avenor cr logistics,89.5,ACCEPT
+evorin iq materials,,,NO_MATCH
+tervano iq materials,tervano eb materials,90.0,ACCEPT
+calvion iq mobility,,,NO_MATCH
+avenor jr packaging,haverno jr packaging,92.3,REJECT
+helvar jr packaging,,,NO_MATCH
+mavrix jr packaging,,,NO_MATCH
+prysmar jr packaging,prysmar uy packaging,85.0,ACCEPT
+kelvanto kr pharma,kelvanto np pharma,88.9,ACCEPT
+nexora ls retail,,,NO_MATCH
+praxon ls retail,praxon er retail,87.5,ACCEPT
+galvex ls robotics,glenvex ls robotics,91.9,REJECT
+mavrix ls robotics,mavrix iu robotics,88.9,ACCEPT
+prysmar ms software,prysmar fs software,94.7,ACCEPT
+brinora ns supply,brinora sn supply,94.1,ACCEPT
+uldora ns supply,uldora nf supply,93.8,ACCEPT
+evorin ot therapeutics,evorin km therapeutics,90.9,ACCEPT
+kelvanto ot therapeutics,kelvanto qq therapeutics,91.7,ACCEPT
+calvion ot tools,calvion qd tools,87.5,ACCEPT
+evorin pt training,evorin no training,88.9,ACCEPT
+meroxa qt ventures,,,NO_MATCH
+mavrix qu warehousing,mavrix oo warehousing,90.5,ACCEPT
+calvion qu wellness,,,NO_MATCH
+tervano ru wellness,tervano bb wellness,89.5,ACCEPT
+tervano su analytics,tervano pk analytics,90.0,ACCEPT
+solvanta su biosystems,solvanta zi biosystems,90.9,ACCEPT
+tarsen su biosystems,tarsen su biosys,88.9,ACCEPT
+xylera su biosystems,xylera oo biosystems,90.0,ACCEPT
+wexforda xw logistics,wexforda hd logistics,85.7,ACCEPT
+deltora xw materials,deltora sx materials,95.0,ACCEPT
+qintara xw materials,yantara yw materials,85.0,REJECT
+xylera yx networks,,,NO_MATCH
+yantara zx packaging,yantara xi packaging,85.0,ACCEPT
+calvion ax retail,,,NO_MATCH
+wendora cy software,wendora pq software,89.5,ACCEPT
+cendrix dz therapeutics,cendrix jd therapeutics,95.7,ACCEPT
+glenvex dz therapeutics,glenvex jd therapeutics,87.0,ACCEPT
+kestrelis dz tools,kestrelis kd tools,94.4,ACCEPT
+nexora dz tools,eldora dz tools,86.7,REJECT
+zentara dz tools,zentara rd tools,93.8,ACCEPT
+ivanto ez training,ivanto as training,88.9,ACCEPT
+veltrix ez training,veltrix ic training,89.5,ACCEPT
+kelvanto fz transport,kelvanto pg transport,85.7,ACCEPT
+haverno ha workspace,haverno mv workspace,85.0,ACCEPT
+uldora ha workspace,,,NO_MATCH
+ulvero ha analytics,ulvero jb analytics,89.5,ACCEPT
+yantara ha analytics,yantara xg analytics,90.0,ACCEPT
+ivanto ia clinics,,,NO_MATCH
+wendora ib clinics,wendora jk clinics,88.9,ACCEPT
+tarsen jb cloudworks,tarsen sd cloudworks,90.0,ACCEPT
+arvello kb foods,arvello jj foods,87.5,ACCEPT
+lunaro nc mobility,lunaro uq mobility,88.9,ACCEPT
+deltora nd mobility,deltora rf mobility,89.5,ACCEPT
+dorsen od networks,dorsen nt networks,88.9,ACCEPT
+kelvanto od networks,kelvanto qe networks,90.0,ACCEPT
+galvex od packaging,,,NO_MATCH
+ulvero pd payments,,,NO_MATCH
+mavrix qd retail,,,NO_MATCH
+zentara qe retail,zentara oc retail,88.2,ACCEPT
+tarsen qe robotics,tarsen by robotics,88.9,ACCEPT
+deltora qe robotics,nexora qe robotics,86.5,REJECT
+kestrelis re software,kestrelis mf software,90.5,ACCEPT
+uldora se supply,uldora nf supply,87.5,ACCEPT
+yorvex sf therapeutics,yorvex lv therapeutics,90.9,ACCEPT
+yantara uf training,,,NO_MATCH
+meroxa wg wellness,,,NO_MATCH
+yantara wg wellness,,,NO_MATCH
+zentara xg biosystems,zentara xg biosys,89.5,ACCEPT
+nexora xg clinics,,,NO_MATCH
+prysmar yh cloudworks,prysmar ur cloudworks sys,87.0,ACCEPT
+uldora zh diagnostics,eldora jb diagnostics,85.7,REJECT
+zentara ai gridworks,zentara yg gridworks,85.0,ACCEPT
+wendora ai gridworks,wendora xo gridworks,85.0,ACCEPT
+rovian bi imaging,rovian fy imaging,88.2,ACCEPT
+tervano bi imaging,tervano hq imaging,88.9,ACCEPT
+avenor bi logistics,avenor cr logistics,89.5,ACCEPT
+zentara ci logistics,zentara iv logistics,95.0,ACCEPT
+praxon ci logistics,praxon ks logistics,89.5,ACCEPT
+vantigo dj networks,vantigo gt networks,89.5,ACCEPT
+nexora fj pharma,nexora ci pharma,87.5,ACCEPT
+tarsen fj retail,tarsen di retail,87.5,ACCEPT
+lorven fk retail,lorven fa retail,93.8,ACCEPT
+kestrelis gk robotics,kestrelis hc robotics,90.5,ACCEPT
+calvion gk security,calvion jh security,89.5,ACCEPT
+ulvero gk security,ulvero nk security,94.4,ACCEPT
+zentara gk security,zentara kd security,94.7,ACCEPT
+ostera hk software,ostera ea software,88.9,ACCEPT
+sorevia ik supply,sorevia rm supply,88.2,ACCEPT
+braxen ik therapeutics,braxen cp therapeutics intl,85.7,ACCEPT
+qintara il therapeutics,fintara bg therapeutics,87.0,REJECT
+tarsen il tools,tarsen og tools,86.7,ACCEPT
+avenor jl training,,,NO_MATCH
+calvion kl ventures,calvion rm ventures,89.5,ACCEPT
+praxon kl ventures,praxon aa ventures,88.9,ACCEPT
+tarsen kl warehousing,tarsen eh warehousing,90.5,ACCEPT
+cendrix mm workspace,cendrix el workspace,90.0,ACCEPT
+helvar mm biosystems labs,helvar qp biosystems labs,92.0,ACCEPT
+yorvex nm clinics labs,yorvex vs clinics labs,90.9,ACCEPT
+brinora pn diagnostics labs,deltora pn diagnostics labs,85.2,REJECT
+xylera pn foods labs,,,NO_MATCH
+galvex pn gridworks labs,galvex tq gridworks labs,91.7,ACCEPT
+sorevia qo gridworks labs,,,NO_MATCH
+solvanta ro imaging labs,,,NO_MATCH
+xylera ro imaging labs,xylera vr imaging labs,95.5,ACCEPT
+braxen ro logistics labs,,,NO_MATCH
+uldora ro logistics labs,uldora vr logistics labs,87.5,ACCEPT
+calvion so mobility labs,,,NO_MATCH
+kestrelis so mobility labs,,,NO_MATCH
+solvanta so mobility labs,solvanta zc mobility labs,88.0,ACCEPT
+xylera so mobility labs,,,NO_MATCH
+wendora sp mobility labs,,,NO_MATCH
+calvion sp networks labs,calvion lb networks,88.4,ACCEPT
+mavrix tp networks labs,mavrix bu networks labs,87.0,ACCEPT
+zentara tp networks labs,,,NO_MATCH
+wexforda up payments labs,,,NO_MATCH
+evorin up payments labs,evorin cv payments labs,87.0,ACCEPT
+ravelin up pharma labs,ravelin dv pharma labs,86.4,ACCEPT
+orvanta vp retail labs,orvanta ak retail labs,86.4,ACCEPT
+novaris vq retail labs,novaris zs retail labs,90.9,ACCEPT
+helvar wq security labs,,,NO_MATCH
+brinora yr tools labs,,,NO_MATCH
+prysmar yr training labs,mavrix yr training labs,85.1,REJECT
+deltora yr training labs,deltora bb training labs,87.5,ACCEPT
+evorin yr training labs,,,NO_MATCH
+meroxa yr training labs,meroxa du training labs,87.0,ACCEPT
+ivanto zr ventures labs,avenor zr ventures labs,87.0,REJECT
+mavrix bs workspace labs,mavrix bb workspace,88.4,ACCEPT
+quenvale bs workspace labs,,,NO_MATCH
+wexforda bs analytics solutions,,,NO_MATCH
+falvera ds clinics solutions,,,NO_MATCH
+javora dt clinics solutions,javora dt clinics solns,92.0,ACCEPT
+fintara dt cloudworks solutions,fintara dt cloudworks solns,93.1,ACCEPT
+galvex dt cloudworks solutions,lorven gd cloudworks solutions,86.7,REJECT
+jorvik dt cloudworks solutions,lorven gd cloudworks solutions,86.7,REJECT
+cendrix dt cloudworks solutions,,,NO_MATCH
+cendrix et components solutions,cendrix fl components solutions,93.5,ACCEPT
+ulvero et diagnostics solutions,ulvero lg diagnostics solutions,93.5,ACCEPT
+ostera et diagnostics solutions,nexora et diagnostics solutions,90.3,REJECT
+yorvex ft gridworks solutions,,,NO_MATCH
+zentara ft gridworks solutions,zentara gm gridworks solns,85.7,ACCEPT
+ostera gu imaging solutions,ostera gu imaging solns,92.0,ACCEPT
+deltora hu logistics solutions,falvera hu logistics solutions,86.7,REJECT
+vantigo hu materials solutions,vantigo hu materials solns,92.9,ACCEPT
+glenvex hu materials solutions,glenvex hu materials solns,92.9,ACCEPT
+qintara iv networks solutions,,,NO_MATCH
+tervano iv networks solutions,tervano lf networks solutions,93.1,ACCEPT
+lunaro jv packaging solutions,,,NO_MATCH
+eldora jv pharma solutions,,,NO_MATCH
+evorin kv pharma solutions,,,NO_MATCH
+rovian lw security solutions,,,NO_MATCH
+javora lw security solutions,javora ke security solutions,92.9,ACCEPT
+javora mw software solutions,fintara mw software solutions,87.7,REJECT
+eldora mw supply solutions,deltora op supply solutions,86.8,REJECT
+lunaro mw supply solutions,,,NO_MATCH
+xylera mw supply solutions,tervano mw supply solutions,86.8,REJECT
+fintara nw therapeutics solutions,nexora nw therapeutics solutions,89.2,REJECT
+javora nw therapeutics solutions,javora nw therapeutics solns,93.3,ACCEPT
+orvanta nx tools solutions,orvanta nx tools solns,91.7,ACCEPT
+calvion qy wellness solutions,calvion ua wellness solutions,89.7,ACCEPT
+lorven qy wellness solutions,dorsen rq wellness solutions,89.3,REJECT
+ravelin qy wellness solutions,ravelin pf wellness solutions,93.1,ACCEPT
+ulvero qy workspace solutions,ulvero qy workspace solns,92.6,ACCEPT
+yorvex qy workspace solutions,yorvex qy workspace solns,92.6,ACCEPT
+helvar ry analytics systems,helvar ry analytics sys,92.0,ACCEPT
+lunaro ry analytics systems,,,NO_MATCH
+haverno ry analytics systems,haverno uj analytics systems,89.3,ACCEPT
+lorven ry analytics systems,lorven vb analytics systems,88.9,ACCEPT
+falvera tz cloudworks systems,javora tz cloudworks systems,91.2,REJECT
+nexora tz diagnostics systems,nexora vr diagnostics systems,93.1,ACCEPT
+wendora wa imaging systems,wendora ui imaging systems,92.3,ACCEPT
+galvex wa logistics systems,galvex ef logistics systems,88.9,ACCEPT
+nexora wa logistics systems,,,NO_MATCH
+novaris wa logistics systems,,,NO_MATCH
+veltrix wa logistics systems,ulvero wa logistics systems,87.3,REJECT
+mavrix wa materials systems,,,NO_MATCH
+haverno xa materials systems,,,NO_MATCH
+yantara xa materials systems,yantara xa materials sys,92.3,ACCEPT
+calvion xa mobility systems,calvion xa mobility sys,92.0,ACCEPT
+arvello xa mobility systems,eldora xa mobility systems,86.8,REJECT
+wendora xb mobility systems,wendora xb mobility sys,92.0,ACCEPT
+tarsen yb networks systems,tarsen yb networks sys,91.7,ACCEPT
+zentara yb networks systems,zentara yb networks sys,92.0,ACCEPT
+lorven yb packaging systems,lorven fo packaging systems,88.9,ACCEPT
+ostera yb packaging systems,ostera yb packaging sys,92.0,ACCEPT
+uldora zb payments systems,uldora ew payments systems,88.5,ACCEPT
+braxen ac security systems,braxen ac security sys,91.7,ACCEPT
+yantara bc security systems,,,NO_MATCH
+brinora bc software systems,brinora en software systems,88.9,ACCEPT
+xylera cc supply systems,,,NO_MATCH
+helvar ed transport systems,lorven ed transport systems,85.2,REJECT
+qintara fd warehousing systems,fintara nj warehousing systems,90.0,REJECT
+yorvex fe wellness systems,yorvex el wellness sys,87.5,ACCEPT
+tervano ge workspace systems,tervano ge workspace sys,92.3,ACCEPT
+fintara ge analytics technologies,braxen ge analytics technologies,86.2,REJECT
+evorin he biosystems technologies,braxen he biosystems technologies,87.9,REJECT
+evorin if cloudworks technologies,,,NO_MATCH
+jorvik if components technologies,jorvik mh components technologies,90.9,ACCEPT
+tarsen if components technologies,tarsen if components tech,86.2,ACCEPT
+haverno jf components technologies,,,NO_MATCH
+braxen jf diagnostics technologies,cendrix jf diagnostics technologies,87.0,REJECT
+braxen jf foods technologies,,,NO_MATCH
+ivanto mg materials technologies,ivanto rb materials technologies,93.8,ACCEPT
+ostera ng mobility technologies,ostera ng mobility tech,85.2,ACCEPT
+galvex nh networks technologies,mavrix nh networks technologies,90.3,REJECT
+nexora nh packaging technologies,glenvex oh packaging technologies,86.2,REJECT
+novaris oh packaging technologies,,,NO_MATCH
+mavrix oh payments technologies,haverno oh payments technologies,88.9,REJECT
+orvanta ph retail technologies,,,NO_MATCH
+qintara ph retail technologies,,,NO_MATCH
+sorevia ph retail technologies,,,NO_MATCH
+jorvik ri software technologies,jorvik ri software tech,85.2,ACCEPT
+evorin ri software technologies,avenor qi software technologies,87.1,REJECT
+haverno ri supply technologies,javora ri supply technologies,88.1,REJECT
+nexora si therapeutics technologies,novaris si therapeutics technologies,90.1,REJECT
+nexora sj tools technologies,brinora sj tools technologies,91.2,REJECT
+kelvanto sj tools technologies,orvanta sj tools technologies,88.1,REJECT
+xylera tj transport technologies,xylera wt transport technologies,90.6,ACCEPT
+tarsen uj warehousing technologies,ostera uj warehousing technologies,88.2,REJECT
+uldora wk workspace technologies,uldora wk workspace tech,85.7,ACCEPT
+kelvanto wk analytics services,kelvanto ep analytics services,90.0,ACCEPT
+calvion xl cloudworks services,calvion ey cloudworks services,90.0,ACCEPT
+dorsen xl cloudworks services,dorsen ws cloudworks services,93.1,ACCEPT
+deltora xl cloudworks services,,,NO_MATCH
+braxen yl diagnostics services,,,NO_MATCH
+yantara zl diagnostics services,,,NO_MATCH
+haverno zl foods services,haverno ad foods services,88.0,ACCEPT
+kelvanto am services,,,NO_MATCH
+ostera am services,ostera gh services,88.9,ACCEPT
+jorvik bm logistics services,jorvik iz logistics services,92.9,ACCEPT
+calvion en retail services,,,NO_MATCH
+tarsen go software services,tarsen hg software services,96.3,ACCEPT
+kestrelis ho supply services,,,NO_MATCH
+deltora ho therapeutics services,deltora oc therapeutics services,96.9,ACCEPT
+qintara ho therapeutics services,javora ho therapeutics services,88.9,REJECT
+novaris kq wellness services,qintara kq wellness services,85.7,REJECT
+haverno lq workspace services,haverno pt workspace services,93.1,ACCEPT
+wendora lq workspace services,tervano lq workspace services,86.2,REJECT
+fintara mq biosystems international,fintara uw biosystems international,94.3,ACCEPT
+kelvanto mq clinics international,vantigo sl clinics international,86.2,REJECT
+meroxa nr cloudworks international,nexora rt cloudworks international,88.2,REJECT
+cendrix or foods international,evorin or foods international,88.1,REJECT
+sorevia pr foods international,,,NO_MATCH
+wendora pr gridworks international,zentara xx gridworks international,85.3,REJECT
+novaris qs international,,,NO_MATCH
+lunaro qs logistics international,prysmar qs logistics international,86.6,REJECT
+sorevia ss mobility international,nexora rs mobility international,86.2,REJECT
+avenor ss networks international,haverno tl networks international,89.2,REJECT
+fintara ss networks international,,,NO_MATCH
+vantigo st networks international,vantigo tl networks international,97.0,ACCEPT
+yorvex st networks international,yorvex ra networks international,93.8,ACCEPT
+tervano st networks international,vantigo tl networks international,87.9,REJECT
+avenor st packaging international,avenor ra packaging international,93.9,ACCEPT
+iskora tt payments international,iskora zo payments international,93.8,ACCEPT
+rovian tt pharma international,,,NO_MATCH
+glenvex ut retail international,cendrix ut retail international,87.1,REJECT
+praxon vu robotics international,,,NO_MATCH
+vantigo vu security international,,,NO_MATCH
+wexforda vu security international,xylera vu security international,87.9,REJECT
+evorin vu security international,,,NO_MATCH
+sorevia vu security international,,,NO_MATCH
+tarsen wu software international,tervano uc software international,86.2,REJECT
+jorvik wu supply international,jorvik xm supply international,93.3,ACCEPT
+orvanta wu supply international,orvanta ax supply international,90.3,ACCEPT
+avenor xu tools international,arvello xv tools international,88.1,REJECT
+xylera xv tools international,,,NO_MATCH
+iskora xv tools international,iskora bx tools international,89.7,ACCEPT
+ivanto yv transport international,,,NO_MATCH
+ostera yv transport international,prysmar yv transport international,86.6,REJECT
+calvion yv ventures international,dorsen yv ventures international,86.2,REJECT
+novaris zv ventures international,iskora zv ventures international,86.2,REJECT
+ravelin zv ventures international,iskora zv ventures international,86.2,REJECT
+yantara aw wellness international,zentara ib wellness international,87.9,REJECT
+dorsen aw workspace international,,,NO_MATCH
+yorvex bw analytics,yorvex jb analytics,94.7,ACCEPT
+brinora bw biosystems,brinora db biosystems,95.2,ACCEPT
+glenvex bw biosystems,glenvex bj biosystems,95.2,ACCEPT
+quenvale cw clinics,quenvale qg clinics,89.5,ACCEPT
+dorsen cw cloudworks,tarsen ow cloudworks,85.0,REJECT
+glenvex fy,,,NO_MATCH
+praxon fy,,,NO_MATCH
+quenvale gy logistics,,,NO_MATCH
+lorven gy logistics,,,NO_MATCH
+yorvex iz packaging,yorvex mb packaging,89.5,ACCEPT
+praxon iz packaging,praxon od packaging,89.5,ACCEPT
+cendrix jz payments,,,NO_MATCH
+kestrelis jz retail,kestrelis id retail,89.5,ACCEPT
+yantara la security,zentara la security,89.5,REJECT
+haverno qc analytics,,,NO_MATCH
+meroxa qc analytics,,,NO_MATCH
+quenvale rc clinics,,,NO_MATCH
+kelvanto sd cloudworks,kelvanto vn cloudworks,90.9,ACCEPT
+haverno sd components,,,NO_MATCH
+xylera td diagnostics,xylera fc diagnostics,90.5,ACCEPT
+falvera td foods,falvera zy foods,87.5,ACCEPT
+yorvex ve imaging,yorvex ul imaging,88.2,ACCEPT
+tarsen xe networks,,,NO_MATCH
+glenvex xf networks,glenvex od networks,89.5,ACCEPT
+orvanta xf packaging,orvanta sg packaging,90.0,ACCEPT
+zentara zf retail,,,NO_MATCH
+tarsen zf robotics,,,NO_MATCH
+deltora ag robotics,deltora ac robotics sys,85.7,ACCEPT
+avenor ag security,ravelin ag security,86.5,REJECT
+galvex ag software,,,NO_MATCH
+praxon bg software,,,NO_MATCH
+ulvero bg supply,,,NO_MATCH
+yorvex bg supply,,,NO_MATCH
+mavrix cg tools,mavrix ju tools,86.7,ACCEPT
+mavrix eh warehousing,mavrix dl warehousing,90.5,ACCEPT
+fintara fi workspace,fintara jb workspace,85.0,ACCEPT
+mavrix gi biosystems,mavrix ha biosystems,90.0,ACCEPT
+vantigo gi biosystems,vantigo fz biosystems,90.5,ACCEPT
+calvion gi clinics,calvion xg clinics,94.4,ACCEPT
+eldora ij components,uldora wx components,85.0,REJECT
+kelvanto ij components,kelvanto is components,95.5,ACCEPT
+novaris ij components,novaris yy components,85.7,ACCEPT
+mavrix jj gridworks,mavrix ks gridworks,89.5,ACCEPT
+haverno kk,,,NO_MATCH
+rovian kk imaging,,,NO_MATCH
+falvera kk imaging,falvera ml imaging,88.9,ACCEPT
+meroxa mk mobility,,,NO_MATCH
+brinora nl payments,brinora lj payments,94.7,ACCEPT
+eldora ol pharma,eldora jm pharma,87.5,ACCEPT
+javora pl retail,javora mx retail,87.5,ACCEPT
+prysmar pl robotics,,,NO_MATCH
+rovian pm security,rovian kn security,88.9,ACCEPT
+ulvero pm security,ulvero nk security,88.9,ACCEPT
+ulvero qm software,ulvero jl software,88.9,ACCEPT
+orvanta qm supply,,,NO_MATCH
+lorven rm supply,,,NO_MATCH
+yantara rm supply,yantara bg supply,88.2,ACCEPT
+sorevia rm therapeutics,sorevia fa therapeutics,91.3,ACCEPT
+solvanta sn training,solvanta mv training,90.0,ACCEPT
+yantara tn transport,yantara pg transport,90.0,ACCEPT
+ostera un warehousing,ostera dp warehousing,85.7,ACCEPT
+ivanto un wellness,ivanto tr wellness,88.9,ACCEPT
+iskora vo workspace,iskora jk workspace,89.5,ACCEPT
+wexforda vo analytics,wexforda is analytics,90.5,ACCEPT
+dorsen vo biosystems,dorsen tn biosystems,90.0,ACCEPT
+eldora vo biosystems,uldora vw biosystems,90.0,REJECT
+ivanto wo biosystems,ivanto fz biosystems,85.0,ACCEPT
+quenvale wo biosystems,quenvale rc biosystems,90.9,ACCEPT
+wexforda wo biosystems,wexforda wx biosystems,95.5,ACCEPT
+novaris wo clinics,novaris po clinics,94.4,ACCEPT
+wendora wo clinics,,,NO_MATCH
+ostera xp components,ostera hm components,85.0,ACCEPT
+veltrix xp components,veltrix gu components,85.7,ACCEPT
+ostera yp diagnostics,ostera zu diagnostics sys,87.0,ACCEPT
+brinora zp,,,NO_MATCH
+praxon aq imaging,,,NO_MATCH
+wendora aq imaging,nexora aq imaging,85.7,REJECT
+helvar aq logistics,helvar et logistics,89.5,ACCEPT
+evorin bq materials,evorin ah materials,89.5,ACCEPT
+jorvik bq mobility,,,NO_MATCH
+yorvex bq mobility,yorvex cz mobility,88.9,ACCEPT
+wexforda cq networks,wexforda fk networks,90.0,ACCEPT
+tervano cr networks,tervano kj networks,89.5,ACCEPT
+orvanta cr packaging,orvanta nl packaging,90.0,ACCEPT
+galvex dr payments,,,NO_MATCH
+evorin dr payments,evorin cz payments,88.9,ACCEPT
+ravelin er pharma,ravelin ol pharma,88.2,ACCEPT
+praxon fs robotics,,,NO_MATCH
+glenvex gs supply,glenvex ki supply,88.2,ACCEPT
+brinora hs therapeutics,brinora iu therapeutics,91.3,ACCEPT
+meroxa hs therapeutics,meroxa le therapeutics,90.9,ACCEPT
+fintara ht training,fintara ga training,89.5,ACCEPT
+meroxa it training,,,NO_MATCH
+mavrix it transport,,,NO_MATCH
+tarsen ku workspace,tarsen ru workspace,94.7,ACCEPT
+iskora ku workspace,iskora jk workspace,94.7,ACCEPT
+mavrix ku analytics labs,mavrix ne analytics labs,87.5,ACCEPT
+falvera lu biosystems labs,,,NO_MATCH
+braxen mv components labs,,,NO_MATCH
+veltrix nv components labs,veltrix on components labs,96.2,ACCEPT
+cendrix ov foods labs,,,NO_MATCH
+wendora ov foods labs,wendora nd foods labs,90.5,ACCEPT
+prysmar ov gridworks labs,,,NO_MATCH
+veltrix ov gridworks labs,,,NO_MATCH
+praxon pw labs,,,NO_MATCH
+tarsen pw imaging labs,,,NO_MATCH
+zentara pw imaging labs,,,NO_MATCH
+tarsen qw materials labs,,,NO_MATCH
+uldora rw mobility labs,uldora uh mobility labs,91.3,ACCEPT
+javora sx packaging labs,javora bu packaging labs,87.5,ACCEPT
+dorsen tx pharma labs,dorsen bc pharma labs,85.7,ACCEPT
+ravelin wy therapeutics labs,,,NO_MATCH
+cendrix xy tools labs,cendrix yr tools labs,95.2,ACCEPT
+praxon xz tools labs,,,NO_MATCH
+braxen xz training labs,braxen bb training labs,87.0,ACCEPT
+haverno xz training labs,arvello xz training labs,87.5,REJECT
+ravelin yz transport labs,,,NO_MATCH
+xylera zz warehousing labs,xylera ib warehousing,85.1,ACCEPT
+eldora zz wellness labs,eldora eu wellness labs,87.0,ACCEPT
+meroxa zz wellness labs,,,NO_MATCH
+yantara za wellness labs,yantara hf wellness labs,87.5,ACCEPT
+yorvex aa workspace labs,,,NO_MATCH
+falvera aa workspace labs,falvera ec workspace labs,92.0,ACCEPT
+yantara aa workspace labs,yantara bs workspace labs,92.0,ACCEPT
+xylera ba biosystems solutions,,,NO_MATCH
+jorvik ba clinics solutions,jorvik ky clinics solutions,88.9,ACCEPT
+iskora ba clinics solutions,iskora ly clinics solutions,88.9,ACCEPT
+evorin ca cloudworks solutions,evorin hv cloudworks solutions,90.0,ACCEPT
+uldora cb cloudworks solutions,,,NO_MATCH
+calvion db foods solutions,,,NO_MATCH
+brinora eb gridworks solutions,brinora eb gridworks solns,92.9,ACCEPT
+lorven gc materials solutions,,,NO_MATCH
+praxon gc materials solutions,,,NO_MATCH
+javora hc networks solutions,javora mx networks solutions,89.3,ACCEPT
+sorevia hc networks solutions,,,NO_MATCH
+orvanta hd packaging solutions,,,NO_MATCH
+lorven id payments solutions,,,NO_MATCH
+iskora jd retail solutions,iskora jd retail solns,91.7,ACCEPT
+tarsen jd robotics solutions,tarsen lw robotics solutions,92.9,ACCEPT
+novaris kd robotics solutions,,,NO_MATCH
+veltrix ke robotics solutions,veltrix ke robotics solns,92.6,ACCEPT
+zentara ke security solutions,zentara lw security solutions,93.1,ACCEPT
+brinora ke security solutions,javora ke security solutions,87.7,REJECT
+yorvex ke software solutions,ulvero ke software solutions,85.7,REJECT
+cendrix ke software solutions,cendrix ke software solns,92.6,ACCEPT
+deltora le supply solutions,deltora op supply solutions,92.6,ACCEPT
+meroxa le supply solutions,mavrix le supply solutions,88.5,REJECT
+yorvex le therapeutics solutions,,,NO_MATCH
+yantara mf tools solutions,yantara mf tools solns,91.7,ACCEPT
+uldora nf transport solutions,uldora ri transport solutions,93.1,ACCEPT
+kelvanto of ventures solutions,kelvanto si ventures solutions,93.3,ACCEPT
+tervano pf wellness solutions,,,NO_MATCH
+dorsen pg workspace solutions,novaris pg workspace solutions,88.1,REJECT
+tervano pg workspace solutions,vantigo pg workspace solutions,90.0,REJECT
+uldora pg workspace solutions,uldora vb workspace solutions,89.7,ACCEPT
+braxen qg clinics systems,braxen qg clinics sys,91.3,ACCEPT
+nexora qg clinics systems,,,NO_MATCH
+lorven rg clinics systems,lorven rg clinics sys,91.3,ACCEPT
+orvanta rg cloudworks systems,orvanta wb cloudworks systems,89.7,ACCEPT
+novaris sh components systems,novaris zu components systems,89.7,ACCEPT
+lorven sh diagnostics systems,lorven sh diagnostics sys,92.6,ACCEPT
+praxon sh diagnostics systems,praxon sh diagnostics sys,92.6,ACCEPT
+eldora sh foods systems,eldora uz foods systems,87.0,ACCEPT
+helvar sh foods systems,,,NO_MATCH
+prysmar th gridworks systems,prysmar zc gridworks systems,92.9,ACCEPT
+yorvex th gridworks systems,yorvex th gridworks sys,92.0,ACCEPT
+meroxa th gridworks systems,,,NO_MATCH
+iskora uh systems,,,NO_MATCH
+ulvero vi logistics systems,ulvero wa logistics systems,92.6,ACCEPT
+evorin vi materials systems,ivanto vi materials systems,85.2,REJECT
+tarsen wi mobility systems,,,NO_MATCH
+zentara wi networks systems,,,NO_MATCH
+falvera wi networks systems,falvera wi networks sys,92.0,ACCEPT
+mavrix xj packaging systems,mavrix bl packaging systems,88.9,ACCEPT
+solvanta xj packaging systems,sorevia xj packaging systems,87.7,REJECT
+xylera xj packaging systems,,,NO_MATCH
+uldora yj pharma systems,uldora yj pharma sys,90.9,ACCEPT
+kelvanto yj retail systems,ivanto yj retail systems,92.0,REJECT
+praxon zj robotics systems,praxon zj robotics sys,91.7,ACCEPT
+tervano zj robotics systems,tervano zj robotics sys,92.0,ACCEPT
+yorvex zk security systems,,,NO_MATCH
+ravelin ak software systems,ravelin ak software sys,92.0,ACCEPT
+rovian ak supply systems,rovian ak supply sys,90.9,ACCEPT
+uldora bk therapeutics systems,uldora cd therapeutics systems,93.3,ACCEPT
+quenvale bk tools systems,quenvale li tools systems,92.0,ACCEPT
+avenor ck training systems,avenor ck training sys,91.7,ACCEPT
+galvex fm analytics technologies,galvex ge analytics technologies,90.6,ACCEPT
+meroxa gm clinics technologies,meroxa qk clinics technologies,90.0,ACCEPT
+dorsen hm components technologies,lorven rk components technologies,87.9,REJECT
+helvar hn components technologies,lunaro mh components technologies,87.9,REJECT
+glenvex hn components technologies,glenvex hn components tech,86.7,ACCEPT
+calvion hn diagnostics technologies,calvion rk diagnostics technologies,94.3,ACCEPT
+rovian in diagnostics technologies,rovian ni diagnostics technologies,97.1,ACCEPT
+kelvanto in foods technologies,,,NO_MATCH
+yantara jn gridworks technologies,yantara jn gridworks tech,86.2,ACCEPT
+rovian ko imaging technologies,rovian my imaging technologies,93.3,ACCEPT
+meroxa ko logistics technologies,,,NO_MATCH
+fintara ko materials technologies,fintara tt materials technologies,90.9,ACCEPT
+rovian lo materials technologies,rovian qj materials technologies,90.6,ACCEPT
+fintara np pharma technologies,,,NO_MATCH
+evorin op retail technologies,mavrix op retail technologies,89.7,REJECT
+falvera op retail technologies,falvera ph retail technologies,96.7,ACCEPT
+sorevia op retail technologies,,,NO_MATCH
+arvello op robotics technologies,arvello op robotics tech,85.7,ACCEPT
+praxon op robotics technologies,,,NO_MATCH
+prysmar pq security technologies,,,NO_MATCH
+meroxa pq security technologies,meroxa sa security technologies,93.5,ACCEPT
+novaris pq security technologies,,,NO_MATCH
+prysmar qq therapeutics technologies,,,NO_MATCH
+evorin qq therapeutics technologies,ravelin rq therapeutics technologies,87.3,REJECT
+nexora rr training technologies,,,NO_MATCH
+yorvex rr training technologies,yorvex rr training tech,85.2,ACCEPT
+yorvex sr ventures technologies,,,NO_MATCH
+tarsen tr wellness technologies,avenor tr wellness technologies,90.3,REJECT
+novaris ur wellness technologies,avenor tr wellness technologies,85.7,REJECT
+avenor us analytics services,falvera vs analytics services,87.7,REJECT
+ostera vs analytics services,ostera wk analytics services,92.9,ACCEPT
+helvar vs biosystems services,,,NO_MATCH
+yorvex vs biosystems services,,,NO_MATCH
+galvex vs clinics services,glenvex xk clinics services,86.8,REJECT
+vantigo vs clinics services,,,NO_MATCH
+uldora ws cloudworks services,uldora zd cloudworks services,93.1,ACCEPT
+orvanta xt foods services,,,NO_MATCH
+ulvero yt foods services,,,NO_MATCH
+avenor yt gridworks services,avenor cw gridworks services,89.3,ACCEPT
+brinora yt gridworks services,,,NO_MATCH
+yantara yt gridworks services,yantara ir gridworks services,89.7,ACCEPT
+ulvero zt services,,,NO_MATCH
+novaris bu networks services,,,NO_MATCH
+helvar cu packaging services,,,NO_MATCH
+kestrelis cu packaging services,,,NO_MATCH
+deltora cv packaging services,javora cv packaging services,87.7,REJECT
+fintara dv pharma services,fintara ff pharma services,92.3,ACCEPT
+zentara fw software services,yantara fw software services,92.9,REJECT
+sorevia gw supply services,,,NO_MATCH
+ulvero gw therapeutics services,,,NO_MATCH
+orvanta gw tools services,orvanta qu tools services,88.0,ACCEPT
+lunaro hx transport services,,,NO_MATCH
+helvar ix ventures services,,,NO_MATCH
+wexforda ix ventures services,,,NO_MATCH
+evorin ly biosystems international,helvar ky biosystems international,88.2,REJECT
+tervano ly biosystems international,nexora ky biosystems international,87.0,REJECT
+jorvik ly clinics international,,,NO_MATCH
+iskora my cloudworks international,iskora qb cloudworks international,94.1,ACCEPT
+veltrix mz components international,vantigo mz components international,88.6,REJECT
+ivanto mz diagnostics international,tervano um diagnostics international,90.1,REJECT
+javora nz diagnostics international,jorvik mz diagnostics international,88.6,REJECT
+ravelin nz diagnostics international,ravelin um diagnostics international,91.7,ACCEPT
+veltrix nz diagnostics international,veltrix nz diagnostics intl,85.7,ACCEPT
+deltora nz foods international,avenor nz foods international,88.1,REJECT
+braxen nz gridworks international,braxen tu gridworks international,93.9,ACCEPT
+helvar pa logistics international,helvar sk logistics international,93.9,ACCEPT
+zentara pa logistics international,yantara rs logistics international,88.2,REJECT
+kestrelis pa materials international,kestrelis sk materials international,94.4,ACCEPT
+wexforda qa materials international,wexforda vv materials international,94.3,ACCEPT
+eldora qa networks international,,,NO_MATCH
+eldora ra packaging international,avenor ra packaging international,90.9,REJECT
+jorvik ra packaging international,jorvik by packaging international,90.9,ACCEPT
+nexora ra packaging international,javora rb packaging international,87.9,REJECT
+tervano sb payments international,xylera sb payments international,89.2,REJECT
+quenvale sb pharma international,,,NO_MATCH
+veltrix sb pharma international,veltrix yw pharma international,90.3,ACCEPT
+calvion sb retail international,dorsen sb retail international,85.2,REJECT
+fintara tb retail international,,,NO_MATCH
+tarsen tb retail international,tarsen bh retail international,90.0,ACCEPT
+kelvanto tb retail international,kelvanto bh retail international,90.6,ACCEPT
+wexforda uc security international,,,NO_MATCH
+yorvex uc security international,,,NO_MATCH
+zentara uc security international,zentara vu security international,97.0,ACCEPT
+veltrix uc security international,,,NO_MATCH
+vantigo uc software international,vantigo ye software international,90.9,ACCEPT
+ostera uc software international,,,NO_MATCH
+yantara wc therapeutics international,,,NO_MATCH
+prysmar wc tools international,,,NO_MATCH
+yantara wc tools international,,,NO_MATCH
+avenor wc training international,eldora wc training international,90.6,REJECT
+ostera wd training international,qintara wd training international,89.2,REJECT
+xylera xd transport international,,,NO_MATCH
+calvion xd ventures international,galvex xd ventures international,89.2,REJECT
+javora yd warehousing international,praxon yd warehousing international,88.6,REJECT
+novaris yd warehousing international,,,NO_MATCH
+haverno yd wellness international,arvello yd wellness international,90.9,REJECT
+sorevia zd wellness international,,,NO_MATCH
+galvex zd workspace international,,,NO_MATCH
+helvar zd workspace international,,,NO_MATCH
+yantara ze workspace international,,,NO_MATCH
+javora ae biosystems,javora ae biosys,88.9,ACCEPT
+novaris be clinics,,,NO_MATCH
+wexforda be components,wexforda be components sys,91.7,ACCEPT
+sorevia cf components,sorevia wx components,85.7,ACCEPT
+deltora df gridworks,deltora gq gridworks,90.0,ACCEPT
+xylera ef,xylera pe,88.9,ACCEPT
+calvion eg logistics,calvion gl logistics,95.0,ACCEPT
+brinora fg materials,brinora jw materials,90.0,ACCEPT
+ivanto hh payments,ivanto dr payments,88.9,ACCEPT
+falvera hh payments,,,NO_MATCH
+sorevia hh payments,sorevia mt payments,89.5,ACCEPT
+rovian ih pharma,rovian hl pharma,93.8,ACCEPT
+ulvero ih retail,ulvero ay retail,87.5,ACCEPT
+uldora ji security,uldora gb security,88.9,ACCEPT
+cendrix ki supply,cendrix jm supply,88.2,ACCEPT
+cendrix li tools,cendrix kd tools,87.5,ACCEPT
+ostera li tools,ostera og tools,86.7,ACCEPT
+vantigo nj warehousing,vantigo oo warehousing,90.9,ACCEPT
+novaris nj warehousing,,,NO_MATCH
+wexforda oj wellness,wexforda pc wellness,90.0,ACCEPT
+iskora oj wellness,iskora lm wellness,88.9,ACCEPT
+helvar pk analytics,helvar pg analytics,94.7,ACCEPT
+kestrelis pk analytics,,,NO_MATCH
+meroxa qk biosystems,meroxa qk biosys,88.9,ACCEPT
+vantigo qk cloudworks,,,NO_MATCH
+helvar sl foods,helvar ia foods,86.7,ACCEPT
+zentara sl gridworks,zentara lc gridworks,95.0,ACCEPT
+eldora vm mobility,eldora vi mobility,94.4,ACCEPT
+rovian vm mobility,rovian vm mobility tech,87.8,ACCEPT
+vantigo vm mobility,vantigo zp mobility,89.5,ACCEPT
+glenvex wm networks,glenvex od networks,89.5,ACCEPT
+eldora wm packaging,,,NO_MATCH
+nexora wm packaging,nexora wm packaging tech,88.4,ACCEPT
+yantara wn packaging,yantara xi packaging,90.0,ACCEPT
+vantigo xn pharma,,,NO_MATCH
+rovian yn retail,,,NO_MATCH
+jorvik yn robotics,jorvik to robotics,88.9,ACCEPT
+kestrelis yn robotics,kestrelis yn robotics tech,89.4,ACCEPT
+ravelin yn robotics,,,NO_MATCH
+eldora yn security,eldora sw security,88.9,ACCEPT
+evorin ao supply,evorin er supply,87.5,ACCEPT
+quenvale bo training,,,NO_MATCH
+ulvero cp transport,ulvero ez transport,89.5,ACCEPT
+arvello cp transport,arvello cl transport sys,86.4,ACCEPT
+javora cp transport,,,NO_MATCH
+lorven cp transport,lorven hk transport,89.5,ACCEPT
+iskora eq workspace,,,NO_MATCH
+wexforda fq biosystems,wexforda fq biosys,90.0,ACCEPT
+yorvex fq biosystems,yorvex su biosystems,90.0,ACCEPT
+arvello fq biosystems,,,NO_MATCH
+avenor fq clinics,avenor po clinics,88.2,ACCEPT
+calvion gq cloudworks,,,NO_MATCH
+yorvex gq cloudworks,yorvex jk cloudworks,90.0,ACCEPT
+yantara gq cloudworks,yantara rg cloudworks,95.2,ACCEPT
+mavrix gq components,mavrix hm components,90.0,ACCEPT
+fintara hr diagnostics,fintara ij diagnostics,90.9,ACCEPT
+braxen hr foods,braxen sh foods,93.3,ACCEPT
+evorin hr foods,,,NO_MATCH
+falvera hr foods,falvera zy foods,87.5,ACCEPT
+lorven jr,,,NO_MATCH
+lunaro jr imaging,lunaro lt imaging,88.2,ACCEPT
+prysmar jr imaging,,,NO_MATCH
+rovian jr imaging,,,NO_MATCH
+ivanto ks materials,,,NO_MATCH
+arvello ks materials,arvello fc materials,90.0,ACCEPT
+fintara ls packaging,fintara jr packaging,90.0,ACCEPT
+prysmar ls packaging,prysmar zk packaging labs,88.9,ACCEPT
+tarsen nt retail,tarsen di retail,87.5,ACCEPT
+deltora ot robotics,,,NO_MATCH
+avenor ou software,avenor cu software sys,85.0,ACCEPT
+wexforda pu software,,,NO_MATCH
+rovian qu therapeutics,rovian jq therapeutics sys,87.5,ACCEPT
+praxon sv ventures,,,NO_MATCH
+tervano tv wellness,tervano uo wellness,89.5,ACCEPT
+zentara uw analytics,zentara analytics,91.9,ACCEPT
+quenvale uw biosystems,quenvale su biosystems,95.5,ACCEPT
+rovian uw biosystems,rovian hr biosystems,85.0,ACCEPT
+xylera vw clinics,xylera kc clinics,88.2,ACCEPT
+sorevia vw clinics,,,NO_MATCH
+haverno vw cloudworks,haverno ai cloudworks,85.7,ACCEPT
+solvanta wx diagnostics,orvanta xg diagnostics,88.9,REJECT
+wexforda wx diagnostics,wexforda wn diagnostics,95.7,ACCEPT
+zentara wx diagnostics,zentara mc diagnostics,90.9,ACCEPT
+falvera wx diagnostics,falvera kb diagnostics,90.9,ACCEPT
+kestrelis xx gridworks,,,NO_MATCH
+dorsen yx,,,NO_MATCH
+rovian yx,,,NO_MATCH
+deltora yx,deltora rx,90.0,ACCEPT
+evorin yx imaging,evorin nu imaging,88.2,ACCEPT
+prysmar zy logistics,,,NO_MATCH
+falvera ay materials,falvera qn materials,85.0,ACCEPT
+xylera ay networks,,,NO_MATCH
+nexora bz payments,nexora iz payments,94.4,ACCEPT
+vantigo cz pharma,vantigo pd pharma,88.2,ACCEPT
+tervano cz pharma,,,NO_MATCH
+eldora dz robotics,,,NO_MATCH
+helvar dz robotics,,,NO_MATCH
+mavrix dz security,,,NO_MATCH
+iskora ez security,,,NO_MATCH
+arvello ea software,arvello ke software,94.7,ACCEPT
+xylera fa supply,,,NO_MATCH
+eldora fa therapeutics,deltora fa therapeutics,93.3,REJECT
+novaris fa therapeutics,novaris li therapeutics,91.3,ACCEPT
+ulvero ga tools,ulvero kd tools,86.7,ACCEPT
+solvanta ga training,solvanta mv training,90.0,ACCEPT
+avenor hb ventures,avenor pg ventures,88.9,ACCEPT
+brinora hb ventures,brinora ku ventures,89.5,ACCEPT
+cendrix ib warehousing,cendrix ct warehousing,90.9,ACCEPT
+uldora jc workspace,,,NO_MATCH
+kelvanto lc components labs,,,NO_MATCH
+fintara md diagnostics labs,,,NO_MATCH
+yorvex md diagnostics labs,,,NO_MATCH
+ivanto nd gridworks labs,,,NO_MATCH
+lorven od labs,lorven sg labs,85.7,ACCEPT
+novaris od labs,,,NO_MATCH
+veltrix od labs,,,NO_MATCH
+novaris od imaging labs,,,NO_MATCH
+uldora od imaging labs,xylera od imaging labs,86.4,REJECT
