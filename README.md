@@ -2,7 +2,6 @@
 # README
 
 ## Notebook Guide
-
 **File:** `Manish_Tiwari_RA.ipynb`
 **Author:** Manish Tiwari, May 2026
 **Datasets required:** `atlas.csv` (Google Drive) and `summit.csv` (Google Drive)
